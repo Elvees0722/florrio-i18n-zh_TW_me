@@ -1,7 +1,7 @@
-Tutorial/Start=<s val="1.5">Tutorial</s><n/><n/>You seem to be new here, let's get you through the basics.<n/>Click {#UI/Title/Ready} to start.
-Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>That's it! Remember to use the inventory to equip and unequip petals.<n/>You can click a petal to equip/unequip it.<n/><n/>Keep expanding your petal collection and good luck!
-Tutorial/MustBeAlive=You must be alive to proceed in the tutorial.
-Tutorial/MustBeInGame=You must be in-game for this part of the tutorial, just click the big green {#UI/Title/Ready} button.
-Tutorial/MustLeaveGame=To proceed, abandon this game by clicking the abandon button on the top left.
-Tutorial/Next=Next
-Tutorial/Done=Done
+Tutorial/Start=<s val="1.5">Tutorial</s><n/><n/>你好，新手花兒。Florr.io的世界危機四伏，現在來學習如何在這生存下去。<n/>按下 {#UI/Title/Ready} 進入遊戲。
+Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>對了，記得你可以在背包裡查看你收集的花瓣。<n/>點擊它們來裝備或卸下。<n/><n/>在Florr.io裡冒險的過程中你將發現更多不同的花瓣，祝你好運！
+Tutorial/MustBeAlive=你必須要生存才能繼續教程。
+Tutorial/MustBeInGame=你必須要在遊戲裡才能完成這階段的教程。按下綠色的【{#UI/Title/Ready}】按鍵進入遊戲。
+Tutorial/MustLeaveGame=下一步，按下屏幕左上的【退出】按鍵來退出遊戲。
+Tutorial/Next=繼續
+Tutorial/Done=完成
