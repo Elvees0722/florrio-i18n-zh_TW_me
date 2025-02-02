@@ -221,30 +221,36 @@ Mobs/rock/Article=一隻
 
 Mobs/beetle_hel/Name=甲蟲
 Mobs/beetle_hel/Description=產自另一維度的惡物。
-Mobs/beetle_hel/Spawn=你感知到來自另一領域的不祥預兆⋯⋯
+Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
 Mobs/rock/Article=一隻
 
-Mobs/wasp/Name=黃蜂
-Mobs/wasp/Description=它們很生氣。
+Mobs/wasp/Name=胡蜂
+Mobs/wasp/Description=它們憤世嫉俗。
+Mobs/rock/Article=一隻
 
-Mobs/dummy/Name=訓練假人
-Mobs/dummy/Description=為什麼這個會出現在你的畫廊裡？
+Mobs/dummy/Name=陪練
+Mobs/dummy/Description=你是如何佔有了它？
+Mobs/rock/Article=一個
 
 Mobs/spider_hel/Name=蜘蛛
-Mobs/spider_hel/Description=黑暗生物從另一個位面產生。
-Mobs/spider_hel/Spawn=你感覺到來自不同領域的不祥振動···
+Mobs/beetle_hel/Description=產自另一維度的惡物。
+Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/centipede_hel/Name=蜈蚣
-Mobs/centipede_hel/Description=黑暗生物從另一個位面產生。
-Mobs/centipede_hel/Spawn=你感覺到來自不同領域的不祥振動···
+Mobs/beetle_hel/Description=產自另一維度的惡物。
+Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/centipede_hel_body/Name=蜈蚣
-Mobs/centipede_hel_body/Description=黑暗生物從另一個位面產生。
-Mobs/centipede_hel_body/Spawn=你感覺到來自不同領域的不祥振動···
+Mobs/beetle_hel/Description=產自另一維度的惡物。
+Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/wasp_hel/Name=黃蜂
-Mobs/wasp_hel/Description=黑暗生物從另一個位面產生。
-Mobs/wasp_hel/Spawn=你感覺到來自不同領域的不祥振動…
+Mobs/beetle_hel/Description=產自另一維度的惡物。
+Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/trader/Name=商人
 
