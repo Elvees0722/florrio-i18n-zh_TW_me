@@ -47,27 +47,27 @@ Mobs/rock/Article=一隻
 
 Mobs/centipede/Name=蜈蚣
 Mobs/centipede/Description=它只關心自己的事情。
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_body/Name=蜈蚣
 Mobs/centipede_body/Description=它只關心自己的事情。
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_evil/Name=蜈蚣
 Mobs/centipede_evil/Description=它只關心自己的事情，還有研究如何捕捉新鮮的花兒。
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_evil_body/Name=蜈蚣
 Mobs/centipede_evil_body/Description=它只關心自己的事情，還有研究如何捕捉新鮮的花兒。
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_desert/Name=蜈蚣
 Mobs/centipede_desert/Description=它有點匆忙趕急，跑快一點！
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_desert_body/Name=蜈蚣
 Mobs/centipede_desert_body/Description=它有點匆忙趕急，跑快一點！
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/square/Name=方塊
 Mobs/square/Description=這個外表⋯⋯似是舊時相識⋯⋯
@@ -127,7 +127,7 @@ Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲···
 Mobs/rock/Article=一隻
 
 Mobs/digger/Name=地下金剛
-Mobs/digger/Description=兄弟，你來錯片場啦。
+Mobs/digger/Description=老兄，你來錯片場啦。
 Mobs/rock/Article=一台
 
 Mobs/sponge/Name=海棉
@@ -144,7 +144,7 @@ Mobs/rock/Article=一隻
 
 Mobs/dandelion/Name=蒲公草
 Mobs/dandelion/Description=蓬松。
-Mobs/rock/Article=一朵
+Mobs/rock/Article=一棵
 
 Mobs/fire_ant_baby/Name=幼火蟻
 Mobs/fire_ant_baby/Description=這隻螞蟻火力全開。
@@ -240,12 +240,12 @@ Mobs/rock/Article=一隻
 Mobs/centipede_hel/Name=蜈蚣
 Mobs/beetle_hel/Description=產自另一維度的惡物。
 Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/centipede_hel_body/Name=蜈蚣
 Mobs/beetle_hel/Description=產自另一維度的惡物。
 Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一隻
+Mobs/rock/Article=一條
 
 Mobs/wasp_hel/Name=黃蜂
 Mobs/beetle_hel/Description=產自另一維度的惡物。
@@ -253,32 +253,43 @@ Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
 Mobs/rock/Article=一隻
 
 Mobs/trader/Name=商人
+Mobs/rock/Article=一位
 
-Mobs/gambler/Name=賭徒
-Mobs/gambler/Description=這可能會發生在你身上。
-Mobs/gambler/Spawn=你聽到有人微弱地低語···“就···再玩一場···”
+Mobs/gambler/Name=惡墮賭徒
+Mobs/gambler/Description=這也可能會發生在你身上。
+Mobs/gambler/Spawn=虛空傳來蠱惑人心的喃喃細語：“再來⋯⋯一場就好⋯⋯”
+Mobs/rock/Article=一位
 
-Mobs/oracle/Name=占卜師
+Mobs/oracle/Name=祭師
+Mobs/rock/Article=一位
 
-Mobs/firefly_magic/Name=螢火蟲
-Mobs/firefly_magic/Description=這件事有一些神奇之處。
+Mobs/firefly_magic/Name=流螢
+Mobs/firefly_magic/Description=它與生俱來具有招引生靈的天賦。
+Mobs/rock/Article=一隻
 
 Mobs/titan/Name=泰坦
+Mobs/rock/Article=一座
 
 Mobs/beetle_nazar/Name=甲蟲
-Mobs/beetle_nazar/Description=這個有不同的圖案……這是什麼意思？
+Mobs/beetle_nazar/Description=身上詭譎的圖案……含有什麼意義？
+Mobs/rock/Article=一隻
 
-Mobs/worm/Name=蚯蚓
-Mobs/worm/Description=它應該吃泥土，但這個卻吃花。
+Mobs/worm/Name=蠕蟲
+Mobs/worm/Description=它應該吃土，卻妄圖吃上花兒肉。
+Mobs/rock/Article=一條
 
-Mobs/worm_guts/Name=蚯蚓內臟
-Mobs/worm_guts/Description=你不應該看到這段文字。我報警。
+Mobs/worm_guts/Name=蠕蟲內腹
+Mobs/worm_guts/Description=你本不該看到這段文字，請向警察自首。
+Mobs/rock/Article=一條
 
-Mobs/mecha_flower/Name=機甲花
-Mobs/mecha_flower/Description=有人一直在製作這些機械花……這代表什麼？
+Mobs/mecha_flower/Name=機甲花兒
+Mobs/mecha_flower/Description=誰一直在背後策劃這驚天陰謀？
+Mobs/rock/Article=一隻
 
-Mobs/wasp_mecha/Name=機甲黃蜂
-Mobs/wasp_mecha/Description=They're MECHA ANGRY.
+Mobs/wasp_mecha/Name=機甲黃瘋
+Mobs/wasp_mecha/Description=它們執行憤世嫉俗的滅世程序。
+Mobs/rock/Article=一隻
 
-Mobs/spider_mecha/Name=機甲蜘蛛
-Mobs/spider_mecha/Description=Mecha Spooky.
+Mobs/spider_mecha/Name=機甲痴蛛
+Mobs/spider_mecha/Description=它們執行驚駭的擾亂程序。
+Mobs/rock/Article=一隻
