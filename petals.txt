@@ -18,34 +18,38 @@ Petals/square/FullName=方塊
 Petals/square/Description=這個形狀⋯⋯似是舊時相識⋯⋯
 Petals/rock/Article=一塊
 
-Petals/rose/Name=玫瑰 
+Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰 
 Petals/rose/Description=擁有出色的治療功能，戰鬥方面則不太強。
 Petals/basic/Article=一根
 
-Petals/stinger/Name=刺
-Petals/stinger/FullName=刺 
-Petals/stinger/Description=它碰到你的確會很痛，但是它很弱。
+Petals/stinger/Name=蜇刺
+Petals/stinger/FullName=蜇刺
+Petals/stinger/Description=傷害很高，但很脆弱。
+Petals/basic/Article=一根
 
-Petals/iris/Name=虹膜 
-Petals/iris/FullName=虹膜 
-Petals/iris/Description=毒性非常大，但需要一段時間才能發揮作用。<n/>對其他花朵造成50%傷害。 
+Petals/iris/Name=鳶尾
+Petals/iris/FullName=鳶尾 
+Petals/iris/Description=含有淬毒，毒性傷害完全生效需時。<n/>對其他花兒的效用減半。 
+Petals/basic/Article=一根
 
-Petals/wing/Name=翼
-Petals/wing/FullName=翼
-Petals/wing/Description=來來去去。
+Petals/wing/Name=羽翼
+Petals/wing/FullName=羽翼
+Petals/wing/Description=搖曳。
+Petals/basic/Article=一根
 
-Petals/missile/Name=飛彈
-Petals/missile/FullName=飛彈
-Petals/missile/Description=你可以真正啟動它。
+Petals/missile/Name=飛刺
+Petals/missile/FullName=飛刺
+Petals/missile/Description=它可以發射。
+Petals/basic/Article=一根
 
 Petals/grapes/Name=葡萄
 Petals/grapes/FullName=葡萄
-Petals/grapes/Description=它可以自行發射。現在有了秘密成分：毒。
+Petals/grapes/Description=它可以破片濺射。含有淬毒配方。
 
 Petals/cactus/Name=仙人掌
 Petals/cactus/FullName=仙人掌
-Petals/cactus/Description=不是很強大，但可以增加你的最大血量。
+Petals/cactus/Description=強度普通，但可以提升花兒的最大血量。
 
 Petals/faster/Name=快速
 Petals/faster/FullName=快速
