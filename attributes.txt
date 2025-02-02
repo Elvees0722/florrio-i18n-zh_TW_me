@@ -1,9 +1,9 @@
 Attribute/PoisonNoColon=<c val="{#Colors/poison}">淬毒</c>
 
-Flower/Attribute/Health=<c val="{#Colors/health}">血量</c>（本體）: {0:tooltip}
-Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">血量</c>（本體）
-Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">傷害</c>（本體）: {0:tooltip}
-Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">傷害</c>（本體）
+Flower/Attribute/Health=（本體）<c val="{#Colors/health}">血量:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=（本體）<c val="{#Colors/health}">血量</c>
+Flower/Attribute/BodyDamage=（本體）<c val="{#Colors/damage}">傷害:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=（本體）<c val="{#Colors/damage}">傷害</c>
 Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">本體毒傷:</c> {0:tooltip} ({1:tooltip} 每秒)
 Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">運氣</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">花瓣轉速</c>
