@@ -16,7 +16,7 @@ Mobs/bee/Name=蜜蜂
 Mobs/bee/Description=別碰，會蜇你。
 Mobs/bee/Article=一隻
 
-Mobs/ant_baby/Name=幼黑蟻
+Mobs/ant_baby/Name=黑幼蟻
 Mobs/ant_baby/Description=羽翼未豐，卻有宏大遠景。
 Mobs/ant_baby/Article=一隻
 
@@ -32,7 +32,7 @@ Mobs/ant_queen/Name=黑蟻帝后
 Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
 Mobs/ant_queen/Article=一隻
 
-Mobs/ant_hole/Name=黑蟻穴
+Mobs/ant_hole/Name=黑蟻穴谷
 Mobs/ant_hole/Description=它們麻木地出出入入，無法被解釋。
 Mobs/ant_hole/Article=一座
 
@@ -89,12 +89,12 @@ Mobs/scorpion/Name=蝎子
 Mobs/scorpion/Description=它會蜇人！
 Mobs/scorpion/Article=一隻
 
-Mobs/fire_ant_soldier/Name=兵火蟻
+Mobs/fire_ant_soldier/Name=紅兵蟻
 Mobs/fire_ant_soldier/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_soldier/Article=一隻
 
-Mobs/fire_ant_burrow/Name=火蟻穴
-Mobs/fire_ant_burrow/Description=裡面可以找到什麼？
+Mobs/fire_ant_burrow/Name=紅蟻穴谷
+Mobs/fire_ant_burrow/Description=裡面可以發現什麼？
 Mobs/fire_ant_burrow/Article=一座
 
 Mobs/sandstorm/Name=沙塵暴
@@ -146,15 +146,15 @@ Mobs/dandelion/Name=蒲公草
 Mobs/dandelion/Description=蓬松。
 Mobs/dandelion/Article=一棵
 
-Mobs/fire_ant_baby/Name=幼火蟻
+Mobs/fire_ant_baby/Name=紅幼蟻
 Mobs/fire_ant_baby/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_baby/Article=一隻
 
-Mobs/fire_ant_worker/Name=工火蟻
+Mobs/fire_ant_worker/Name=紅工蟻
 Mobs/fire_ant_worker/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_worker/Article=一隻
 
-Mobs/fire_ant_queen/Name=火蟻帝后
+Mobs/fire_ant_queen/Name=紅蟻帝后
 Mobs/fire_ant_queen/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_queen/Article=一隻
 
@@ -162,7 +162,7 @@ Mobs/ant_egg/Name=蟻卵
 Mobs/ant_egg/Description=裡面孕育著一新生命。
 Mobs/ant_egg/Article=一顆
 
-Mobs/fire_ant_egg/Name=火蟻卵
+Mobs/fire_ant_egg/Name=紅蟻卵
 Mobs/fire_ant_egg/Description=準備火力全開。
 Mobs/fire_ant_egg/Article=一顆
 
@@ -178,7 +178,7 @@ Mobs/mantis/Name=螳螂
 Mobs/mantis/Description=你最好祈禱你不會成為它的晚餐。
 Mobs/mantis/Article=一隻
 
-Mobs/termite_baby/Name=幼白蟻
+Mobs/termite_baby/Name=白幼蟻
 Mobs/termite_baby/Description=羽翼未豐，卻有宏大遠景。<n/>這些生命似乎存在某種聯繫。
 Mobs/termite_baby/Article=一隻
 
@@ -190,7 +190,7 @@ Mobs/termite_soldier/Name=白兵蟻
 Mobs/termite_soldier/Description=羽翼已豐，準備施展抱負。<n/>這些生命似乎存在某種聯繫。
 Mobs/termite_soldier/Article=一隻
 
-Mobs/termite_overmind/Name=白蟻帝君
+Mobs/termite_overmind/Name=白蟻主宰
 Mobs/termite_overmind/Description=目空一切。
 Mobs/termite_overmind/Article=一隻
 
