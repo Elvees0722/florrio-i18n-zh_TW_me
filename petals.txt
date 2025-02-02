@@ -126,7 +126,7 @@ Petals/corn/Article=一顆
 Petals/sand/Name=砂粒
 Petals/sand/FullName=砂粒
 Petals/sand/Description=非晶體二氧化矽。
-Petals/sand/Article=一顆
+Petals/sand/Article=一堆
 
 Petals/pincer/Name=蜇鉗
 Petals/pincer/FullName=蜇鉗
