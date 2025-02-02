@@ -208,7 +208,7 @@ Petals/fangs/FullName=獠牙
 Petals/fangs/Description=依照造成的傷害等比例地產生治療。
 Petals/fangs/Article=一隻
 
-Petals/third_eye/Name=天睛
+Petals/third_eye/Name=天眼
 Petals/third_eye/FullName=天眼
 Petals/third_eye/Description=提升花瓣的攻擊距離。
 Petals/third_eye/Article=一隻
