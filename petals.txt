@@ -95,7 +95,7 @@ Petals/yin_yang/Article=一道
 
 Petals/web/Name=蛛網
 Petals/web/FullName=蛛網
-Petals/web/Description=它非常粘，任何深陷其中的東西都會減慢速度。 
+Petals/web/Description=它非常黏，任何深陷其中的東西都會減慢速度。 
 Petals/web/Article=一片
 
 Petals/honey/Name=蜜糖
@@ -143,33 +143,40 @@ Petals/magnet/FullName=磁鐵
 Petals/magnet/Description=提升吸取掉落物的範圍。
 Petals/magnet/Article=一塊
 
-Petals/yggdrasil/Name=生命之葉
-Petals/yggdrasil/FullName=命葉
-Petals/yggdrasil/Description=生命之樹的一片乾葉。<n/>相傳能使死人復活。
+Petals/yggdrasil/Name=回魂葉
+Petals/yggdrasil/FullName=回魂葉
+Petals/yggdrasil/Description=相傳是從世界樹上凋零而落的一塊乾葉。<n/>能使逝去的花兒復活。
+Petals/yggdrasil/Article=一根
 
-Petals/starfish/Name=海星段
+Petals/starfish/Name=海星
 Petals/starfish/FullName=海星
-Petals/starfish/Description=血量低於 75% 時提高治療效果。
+Petals/starfish/Description=在花兒血量低於 75% 時提供被動治療。
+Petals/starfish/Article=一根
 
 Petals/pearl/Name=珍珠
 Petals/pearl/FullName=珍珠
-Petals/pearl/Description=放下它，它就會從遠處跟著你。
+Petals/pearl/Description=你可以發射它，也可以把它收回。
+Petals/pearl/Article=一顆
 
-Petals/lightning/Name=雷電
-Petals/lightning/FullName=雷電
-Petals/lightning/Description=攻擊附近的大量敵人。
+Petals/lightning/Name=閃電
+Petals/lightning/FullName=閃電
+Petals/lightning/Description=連鎖攻擊附近的多個敵人。
+Petals/lightning/Article=一根
 
-Petals/jelly/Name=凝膠
-Petals/jelly/FullName=凝膠
-Petals/jelly/Description=沒有人喜歡碰這個。
+Petals/jelly/Name=果凍
+Petals/jelly/FullName=果凍
+Petals/jelly/Description=黏黏滑滑的，沒有人喜歡碰它。
+Petals/jelly/Article=一顆
 
-Petals/claw/Name=爪
-Petals/claw/FullName=爪
-Petals/claw/Description=如果敵人血量高於 80%，則會造成更多傷害。<n/>對其他花朵造成 -50% 傷害。
+Petals/claw/Name=爪子
+Petals/claw/FullName=爪子
+Petals/claw/Description=能夠對血量高於 80% 的敵人造成額外傷害。<n/>對其他花朵的效果減半。
+Petals/claw/Article=一隻
 
 Petals/shell/Name=貝殼
 Petals/shell/FullName=貝殼
-Petals/shell/Description=暫時保護你和你的盟友。
+Petals/shell/Description=為你及你的隊友提供暫時性的護盾。護盾可獨立累積於血量之上。
+Petals/shell/Article=一塊
 
 Petals/cutter/Name=鉅
 Petals/cutter/FullName=鉅
