@@ -59,7 +59,7 @@ Petal/Attribute/ContentsN=<c val="{#Colors/generic}">孵化:</c> {0}x {#Mobs/{1:
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">額外視野:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">作用半徑:</c> {0:tooltip}
 Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">最高生物級別:</c> {#Rarities/{0}/NameColored}
-Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">傷害反彈:</c> {0:perc}%（對 {#Rarities/{2}/NameColored} 生物）/ {1:perc}%（對其他花兒）
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">傷害反彈:</c> {0:perc}%（對 {#Rarities/{2}/NameColored} 生物）/  {1:perc}%（對其他花兒）
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">拾取範圍:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">電擊傷害:</c> {0:tooltip}
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">電弧:</c> {0:tooltip}
