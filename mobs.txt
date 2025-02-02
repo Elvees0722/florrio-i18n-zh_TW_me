@@ -33,7 +33,7 @@ Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
 Mobs/ant_queen/Article=一隻
 
 Mobs/ant_hole/Name=黑蟻穴
-Mobs/ant_hole/Description=螞蟻進去又出來，無法解釋。
+Mobs/ant_hole/Description=它們麻木地出出入入，無法被解釋。
 Mobs/ant_hole/Article=一座
 
 Mobs/beetle/Name=甲蟲
@@ -113,8 +113,8 @@ Mobs/shell/Name=海貝
 Mobs/shell/Description=守口如瓶。
 Mobs/shell/Article=一隻
 
-Mobs/starfish/Name=水星
-Mobs/starfish/Description=擁有傲人的再生能力。
+Mobs/starfish/Name=海星
+Mobs/starfish/Description=擁有出色的再生能力。
 Mobs/starfish/Article=一隻
 
 Mobs/crab/Name=螃蟹
@@ -122,12 +122,12 @@ Mobs/crab/Description=霸道橫行。
 Mobs/crab/Article=一隻
 
 Mobs/jellyfish/Name=水母
-Mobs/jellyfish/Description=可製作最美味的果醬。
-Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲···
+Mobs/jellyfish/Description=觸感清新爽快。
+Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲⋯⋯
 Mobs/jellyfish/Article=一隻
 
 Mobs/digger/Name=地下金剛
-Mobs/digger/Description=老兄，你來錯片場啦。
+Mobs/digger/Description=伙計，你來錯片場啦。
 Mobs/digger/Article=一台
 
 Mobs/sponge/Name=海棉
@@ -135,11 +135,11 @@ Mobs/sponge/Description=多細胞生物。
 Mobs/sponge/Article=一隻
 
 Mobs/leech/Name=水蛭
-Mobs/leech/Description=我吸我吸！
+Mobs/leech/Description=吸吸！
 Mobs/leech/Article=一隻
 
 Mobs/leech_body/Name=水蛭
-Mobs/leech_body/Description=我吸我吸！
+Mobs/leech_body/Description=吸吸！
 Mobs/leech_body/Article=一隻
 
 Mobs/dandelion/Name=蒲公草
@@ -195,7 +195,7 @@ Mobs/termite_overmind/Description=目空一切。
 Mobs/termite_overmind/Article=一隻
 
 Mobs/termite_mound/Name=白蟻丘谷
-Mobs/termite_mound/Description=它們麻木地出出入入，無法解釋。
+Mobs/termite_mound/Description=它們麻木地出出入入，無法被解釋。
 Mobs/termite_mound/Article=一座
 
 Mobs/termite_egg/Name=白蟻卵
@@ -215,7 +215,7 @@ Mobs/moth/Description=體質過敏，請小心對待。
 Mobs/moth/Article=一隻
 
 Mobs/firefly/Name=流螢
-Mobs/firefly/Description=哦，閃閃發光。
+Mobs/firefly/Description=哎唷我的眼睛！
 Mobs/firefly/Spawn=天際劃過一抹刺眼光芒⋯⋯
 Mobs/firefly/Article=一隻
 
