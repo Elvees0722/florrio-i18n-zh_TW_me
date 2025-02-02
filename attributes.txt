@@ -65,7 +65,7 @@ Petal/Attribute/Lightning=<c val="{#Colors/lightning}">電擊傷害:</c> {0:tool
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">電弧:</c> {0:tooltip}
 Petal/Attribute/Knockback=<c val="{#Colors/generic}">擊退:</c> {0:tooltip}
 Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">額外傷害:</c> {0:tooltip}
-Petal/Attribute/Shield=<c val="{#Colors/generic}">製甲:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="{#Colors/generic}">製盾:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=本體<c val="{#Colors/damage}">傷害:</c> +{0:tooltip}
 Petal/Attribute/Period=<c val="{#Colors/generic}">週期:</c> {0:tooltipTime}
 Petal/Attribute/FlowerRadius=本體<c val="{#Colors/generic}">半徑:</c> +{0:tooltip}
