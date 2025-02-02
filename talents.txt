@@ -1,5 +1,5 @@
-Talents/crafting/Name=Crafting
-Talents/crafting/Description=Unlocks the ability to craft <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> petals
+Talents/crafting/Name=合成
+Talents/crafting/Description=解鎖合成 <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> 花瓣的能力。
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
 Talents/crafting_unusual/Description={#Talents/crafting/Description}
@@ -22,23 +22,23 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Loadout
-Talents/inventory6/Description=Enables a 6th loadout slot to equip petals.
+Talents/inventory6/Name=裝備欄
+Talents/inventory6/Description=啟用第 6 個花瓣的裝備槽位。
 
-Talents/inventory7/Name=Loadout
-Talents/inventory7/Description=Enables a 7th loadout slot to equip petals.
+Talents/inventory7/Name=裝備欄
+Talents/inventory7/Description=啟用第 7 個花瓣的裝備槽位。
 
-Talents/inventory8/Name=Loadout
-Talents/inventory8/Description=Enables a 8th loadout slot to equip petals.
+Talents/inventory8/Name=裝備欄
+Talents/inventory8/Description=啟用第 8 個花瓣的裝備槽位。
 
-Talents/inventory9/Name=Loadout
-Talents/inventory9/Description=Enables a 9th loadout slot to equip petals.
+Talents/inventory9/Name=裝備欄
+Talents/inventory9/Description=啟用第 9 個花瓣的裝備槽位。
 
-Talents/inventory10/Name=Loadout
-Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
+Talents/inventory10/Name=裝備欄
+Talents/inventory10/Description=啟用第 10 個花瓣的裝備槽位。
 
-Talents/health/Name=Health
-Talents/health/Description=Increases base {#Flower/Attribute/HealthNoColon} by {0:perc}%.
+Talents/health/Name=生命
+Talents/health/Description=基礎 {#Flower/Attribute/HealthNoColon} 提升 {0:perc}%。
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=Luck
-Talents/luck/Description=Increases {#Flower/Attribute/LuckNoColon} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+Talents/luck/Name=運氣
+Talents/luck/Description={#Flower/Attribute/LuckNoColon} 提升 {0:tooltip} 點。<n/>更高的運氣可提升特定花瓣的數值。
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -79,8 +79,8 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=Medic
-Talents/medic/Description=Increases {#Flower/Attribute/HealingNoColon} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+Talents/medic/Name=治療
+Talents/medic/Description=所有治療類花瓣提升 {0:perc}% 的 {#Flower/Attribute/HealingNoColon}。<n/>包括對隊友的治療。
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -106,8 +106,8 @@ Talents/medic7/Description={#Talents/medic/Description}
 Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
-Talents/summoner/Name=Summoner
-Talents/summoner/Description=Increases {#Mob/Attribute/HealthNoColon} of summoned mobs by {0:perc}%.
+Talents/summoner/Name=召喚術
+Talents/summoner/Description=所有召喚物的 {#Mob/Attribute/HealthNoColon} 提高 {0:perc}%。
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -133,32 +133,32 @@ Talents/summoner7/Description={#Talents/summoner/Description}
 Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
-Talents/reload1/Name=Reload
-Talents/reload1/Description=Decreases the reload time for petals by -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload1/Name=花瓣重生
+Talents/reload1/Description=花瓣的重生時間減少 {0:perc}%。<n/>同時替換花瓣的最少冷卻時間從基礎 {3} 秒減少至 {2}秒。
 
-Talents/reload2/Name=Reload
-Talents/reload2/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload2/Name=花瓣重生
+Talents/reload2/Description=花瓣的重生時間累積減少 {0:perc}%。<n/>同時替換花瓣的最少冷卻時間進一步減少至 {2}秒。
 
-Talents/reload3/Name=Reload
-Talents/reload3/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload3/Name=花瓣重生
+Talents/reload3/Description=花瓣的重生時間累積減少 {0:perc}%。<n/>同時替換花瓣的最少冷卻時間進一步減少至 {2}秒。
 
-Talents/reload4/Name=Reload
-Talents/reload4/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload4/Name=花瓣重生
+Talents/reload4/Description=花瓣的重生時間累積減少 {0:perc}%。<n/>同時替換花瓣的最少冷卻時間進一步減少至 {2}秒。
 
-Talents/reload5/Name=Reload
-Talents/reload5/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload5/Name=花瓣重生
+Talents/reload5/Description=花瓣的重生時間累積減少 {0:perc}%。<n/>同時替換花瓣的最少冷卻時間進一步減少至 {2}秒。
 
-Talents/reload6/Name=Reload
-Talents/reload6/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload6/Name=花瓣重生
+Talents/reload6/Description=花瓣的重生時間累積減少 {0:perc}%。
 
-Talents/reload7/Name=Reload
-Talents/reload7/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload7/Name=花瓣重生
+Talents/reload7/Description=花瓣的重生時間累積減少 {0:perc}%。
 
-Talents/reload8/Name=Reload
-Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload8/Name=花瓣重生
+Talents/reload8/Description=花瓣的重生時間累積減少 {0:perc}%。
 
-Talents/body_damage/Name=Sharp Edges
-Talents/body_damage/Description=Increases {#Flower/Attribute/BodyDamageNoColon} by {0:perc}%.
+Talents/body_damage/Name=荊棘
+Talents/body_damage/Description={#Flower/Attribute/BodyDamageNoColon} 提升 {0:perc}%.
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
 Talents/body_damage1/Description={#Talents/body_damage/Description}
@@ -184,26 +184,26 @@ Talents/body_damage7/Description={#Talents/body_damage/Description}
 Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
-Talents/petal_rotation/Name=Petal Rotation
-Talents/petal_rotation/Description=Increases petal {#Flower/Attribute/RotationSpeedNoColon} from {1:tooltip} to {0:tooltip} rad/s.
+Talents/petal_rotation/Name=花瓣轉速
+Talents/petal_rotation/Description=
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation1/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 從基礎 {1:tooltip} 提升至 {0:tooltip} 弧度每秒。
 
 Talents/petal_rotation2/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation2/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation2/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
 
 Talents/petal_rotation3/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation3/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation3/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
 
 Talents/petal_rotation4/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation4/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
 
 Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
-Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation5/Description=花瓣的 {#Flower/Attribute/RotationSpeedNoColon} 進一步提升至 {0:tooltip} 弧度每秒。
 
-Talents/reach/Name=Reach
-Talents/reach/Description=Increases petal {#Flower/Attribute/AttackRangeNoColon} by {0:tooltip}.
+Talents/reach/Name=攻擊距離
+Talents/reach/Description=花瓣的 {#Flower/Attribute/AttackRangeNoColon} 提升 {0:tooltip}。
 
 Talents/reach1/Name={#Talents/reach/Name}
 Talents/reach1/Description={#Talents/reach/Description}
@@ -214,20 +214,20 @@ Talents/reach2/Description={#Talents/reach/Description}
 Talents/reach3/Name={#Talents/reach/Name}
 Talents/reach3/Description={#Talents/reach/Description}
 
-Talents/second_chance1/Name=Second Chance
-Talents/second_chance1/Description=Prevents death for {0:tooltip}s upon taking fatal damage. Has a {1:tooltip}s cooldown.
+Talents/second_chance1/Name=續命術
+Talents/second_chance1/Description=受到致命傷害後 {0:tooltip}秒 內保持不死。 觸發冷卻爲 {1:tooltip}秒。
 
-Talents/second_chance2/Name=Second Chance
-Talents/second_chance2/Description=Increases duration to {0:tooltip}s, decreases cooldown to {1:tooltip}s.
+Talents/second_chance2/Name=續命術
+Talents/second_chance2/Description=不死時長提升至 {0:tooltip}秒，同時觸發冷卻減低至 {1:tooltip}秒。
 
-Talents/magnetism/Name=Magnetism
-Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
+Talents/magnetism/Name=磁場
+Talents/magnetism/Description=存活時吸取掉落物的範圍提升 {0}。
 
-Talents/body_toxicity/Name=Body Toxicity
-Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
+Talents/body_toxicity/Name=毒素沉澱
+Talents/body_toxicity/Description=自身接觸敵人時，在 {1:tooltip}秒 內施加等同於<n/>{0:tooltip}倍 {#Flower/Attribute/BodyDamageNoColon} 的 {#Attribute/PoisonNoColon} 傷害。
 
-Talents/poison/Name=Poison
-Talents/poison/Description=Increases all {#Attribute/PoisonNoColon} damage by {0:perc}%.
+Talents/poison/Name=製毒術
+Talents/poison/Description=所有 {#Attribute/PoisonNoColon} 傷害提升 {0:perc}%。
 
 Talents/poison1/Name={#Talents/poison/Name}
 Talents/poison1/Description={#Talents/poison/Description}
@@ -253,17 +253,17 @@ Talents/poison7/Description={#Talents/poison/Description}
 Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
-Talents/concentrated_poison/Name=Concentrated Poison
-Talents/concentrated_poison/Description=Increases {#Attribute/PoisonNoColon} damage per second by {0:perc}%.<n/>Decreases {#Attribute/PoisonNoColon} duration by {1:perc}%.
+Talents/concentrated_poison/Name=濃縮配方
+Talents/concentrated_poison/Description=每秒的 {#Attribute/PoisonNoColon} 傷害提升 {0:perc}%。<n/>{#Attribute/PoisonNoColon} 的持續時間減少 {1:perc}%。
 
-Talents/duplicator/Name=Duplicator
-Talents/duplicator/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
+Talents/duplicator/Name=複製術
+Talents/duplicator/Description=任何擁有至少 {0:tooltip} 個複本的花瓣將增加 1 個複本。
 
-Talents/antennae1/Name=Antennae
-Talents/antennae1/Description=Increases vision range by {0:perc}%.
+Talents/antennae1/Name=感知
+Talents/antennae1/Description=視野提升 {0:perc}%。
 
-Talents/antennae2/Name=Antennae
-Talents/antennae2/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+Talents/antennae2/Name=感知
+Talents/antennae2/Description=視野累積提升 {1:perc}%。
 
-Talents/antennae3/Name=Antennae
-Talents/antennae3/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+Talents/antennae3/Name=感知
+Talents/antennae3/Description=視野累積提升 {1:perc}%。
