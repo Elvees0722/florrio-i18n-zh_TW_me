@@ -1,22 +1,27 @@
-Petals/basic/Name=基本
-Petals/basic/FullName=基本 
-Petals/basic/Description=一個不錯的花瓣，不太強，也不太弱。
+Petals/basic/Name=單瓣
+Petals/basic/FullName=單瓣
+Petals/basic/Description=一個不錯的花瓣，不很強，也不很弱。
+Petals/basic/Article=一根
 
-Petals/light/Name=輕浮
-Petals/light/FullName=輕浮
-Petals/light/Description=比其他的花瓣比較弱，但是刷新得很快。
+Petals/light/Name=細瓣
+Petals/light/FullName=細瓣
+Petals/light/Description=強度不如其他花瓣，但是重生速度快。
+Petals/light/Article=一根
 
 Petals/rock/Name=石頭 
 Petals/rock/FullName=石頭 
-Petals/rock/Description=非常耐用，但需要一段時間才能刷新。
+Petals/rock/Description=非常耐用，但是重生速度慢。
+Petals/rock/Article=一塊
 
-Petals/square/Name=正方形 
-Petals/square/FullName=正方形 
-Petals/square/Description=這個形狀···看得有點認識···
+Petals/square/Name=方塊
+Petals/square/FullName=方塊
+Petals/square/Description=這個形狀⋯⋯似是舊時相識⋯⋯
+Petals/rock/Article=一塊
 
 Petals/rose/Name=玫瑰 
 Petals/rose/FullName=玫瑰 
-Petals/rose/Description=它的治療功能令人驚嘆，但是戰鬥力卻不太高。
+Petals/rose/Description=擁有出色的治療功能，戰鬥方面則不太強。
+Petals/basic/Article=一根
 
 Petals/stinger/Name=刺
 Petals/stinger/FullName=刺 
