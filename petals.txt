@@ -178,41 +178,50 @@ Petals/shell/FullName=貝殼
 Petals/shell/Description=為你及你的隊友提供暫時性的護盾。護盾可獨立累積於血量之上。
 Petals/shell/Article=一塊
 
-Petals/cutter/Name=鉅
-Petals/cutter/FullName=鉅
-Petals/cutter/Description=這是一位老朋友的財產……現在是復仇的時候了。<n/>增加身體傷害。
+Petals/cutter/Name=鋸齒
+Petals/cutter/FullName=鋸齒
+Petals/cutter/Description=這是一位老朋友的遺產……現在是為其復仇的時候了。<n/>能夠提升花兒的傷害。
+Petals/cutter/Article=一具
 
-Petals/dahlia/Name=大麗花
-Petals/dahlia/FullName=大麗花
-Petals/dahlia/Description=治癒你的量很小，但非常持續。
+Petals/dahlia/Name=大理花
+Petals/dahlia/FullName=大理花
+Petals/dahlia/Description=每顆複本的治療量不大，但能夠分散風險。
+Petals/dahlia/Article=一根
 
-Petals/uranium/Name=鈾
-Petals/uranium/FullName=鈾
-Petals/uranium/Description=會釋放輻射。<n/>對其他花朵造成 -75% 傷害。<n/>效果強度取決於距花瓣的距離。
+Petals/uranium/Name=鈾礦
+Petals/uranium/FullName=鈾礦
+Petals/uranium/Description=緩慢釋放輻射。<n/>對其他花朵的效果減少四分三。<n/>造成傷害取決於與目標的距離。
+Petals/uranium/Article=一顆
 
-Petals/sponge/Name=海面
-Petals/sponge/FullName=海面
-Petals/sponge/Description=分散一段時間內受到的傷害。<n/>被摧毀後會立即造成所有傷害。<n/>不會傳播毒害。
+Petals/sponge/Name=海綿
+Petals/sponge/FullName=海綿
+Petals/sponge/Description=能夠將花兒受到的傷害暫時儲存，並在一段時間內逐漸釋放。<n/>被破壞後會立即釋放所有傷害。<n/>不能儲存毒性傷害。
+Petals/sponge/Article=一塊
 
 Petals/soil/Name=土壤
 Petals/soil/FullName=土壤
-Petals/soil/Description=增加你的血量和體型，但會讓你變慢。
+Petals/soil/Description=提升你花兒的血量及身型，但減慢移動速度。
+Petals/soil/Article=一塊
 
 Petals/fangs/Name=獠牙
 Petals/fangs/FullName=獠牙
-Petals/fangs/Description=根據造成的傷害治療你。
+Petals/fangs/Description=依照造成的傷害等比例地產生治療。
+Petals/fangs/Article=一隻
 
-Petals/third_eye/Name=第三眼睛
-Petals/third_eye/FullName=第三眼睛
-Petals/third_eye/Description=增加花瓣延伸的距離。
+Petals/third_eye/Name=天睛
+Petals/third_eye/FullName=天眼
+Petals/third_eye/Description=提升花瓣的攻擊距離。
+Petals/third_eye/Article=一隻
 
 Petals/peas/Name=豌豆
 Petals/peas/FullName=豌豆
-Petals/peas/Description=它可以自行發射。
+Petals/peas/Description=它可以破片濺射。
+Petals/third_eye/Article=一串
 
-Petals/stick/Name=棒
-Petals/stick/FullName=神秘棒
-Petals/stick/Description=召喚風之力的神秘棍棒。
+Petals/stick/Name=木枝
+Petals/stick/FullName=詭異木枝
+Petals/stick/Description=可以喚醒風靈力量的詭異道具。
+Petals/stick/Article=一根
 
 Petals/clover/Name=苜
 Petals/clover/FullName=苜
