@@ -6,290 +6,290 @@ Mobs/rock/Article=一座
 Mobs/cactus/Name=仙人掌
 Mobs/cactus/Description=別碰，會疼。
 Mobs/cactus/Spawn=沙塵之間一座荊棘巨塔拔地而起……
-Mobs/rock/Article=一座
+Mobs/cactus/Article=一座
 
 Mobs/ladybug/Name=瓢蟲
 Mobs/ladybug/Description=可愛而無害。
-Mobs/rock/Article=一隻
+Mobs/ladybug/Article=一隻
 
 Mobs/bee/Name=蜜蜂
 Mobs/bee/Description=別碰，會蜇你。
-Mobs/rock/Article=一隻
+Mobs/bee/Article=一隻
 
 Mobs/ant_baby/Name=幼黑蟻
 Mobs/ant_baby/Description=羽翼未豐，卻有宏大遠景。
-Mobs/rock/Article=一隻
+Mobs/ant_baby/Article=一隻
 
 Mobs/ant_worker/Name=黑工蟻
 Mobs/ant_worker/Description=脾氣暴躁，可能是過勞工作的緣故。
-Mobs/rock/Article=一隻
+Mobs/ant_worker/Article=一隻
 
 Mobs/ant_soldier/Name=黑兵蟻
 Mobs/ant_soldier/Description=羽翼已豐，準備施展抱負。
-Mobs/rock/Article=一隻
+Mobs/ant_soldier/Article=一隻
 
 Mobs/ant_queen/Name=黑蟻帝后
 Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
-Mobs/rock/Article=一隻
+Mobs/ant_queen/Article=一隻
 
 Mobs/ant_hole/Name=黑蟻穴
 Mobs/ant_hole/Description=螞蟻進去又出來，無法解釋。
-Mobs/rock/Article=一座
+Mobs/ant_hole/Article=一座
 
 Mobs/beetle/Name=甲蟲
 Mobs/beetle/Description=飢餓的甲蟲最喜歡的食物就是花兒。
-Mobs/rock/Article=一隻
+Mobs/beetle/Article=一隻
 
 Mobs/hornet/Name=黃蜂
 Mobs/hornet/Description=它不如那侏儒親戚般親切善良。
 Mobs/hornet/Spawn=草木之上一具金黃身軀閃亮登場……
-Mobs/rock/Article=一隻
+Mobs/hornet/Article=一隻
 
 Mobs/centipede/Name=蜈蚣
 Mobs/centipede/Description=它只關心自己的事情。
-Mobs/rock/Article=一條
+Mobs/centipede/Article=一條
 
 Mobs/centipede_body/Name=蜈蚣
 Mobs/centipede_body/Description=它只關心自己的事情。
-Mobs/rock/Article=一條
+Mobs/centipede_body/Article=一條
 
 Mobs/centipede_evil/Name=蜈蚣
 Mobs/centipede_evil/Description=它只關心自己的事情，還有研究如何捕捉新鮮的花兒。
-Mobs/rock/Article=一條
+Mobs/centipede_evil/Article=一條
 
 Mobs/centipede_evil_body/Name=蜈蚣
 Mobs/centipede_evil_body/Description=它只關心自己的事情，還有研究如何捕捉新鮮的花兒。
-Mobs/rock/Article=一條
+Mobs/centipede_evil_body/Article=一條
 
 Mobs/centipede_desert/Name=蜈蚣
 Mobs/centipede_desert/Description=它有點匆忙趕急，跑快一點！
-Mobs/rock/Article=一條
+Mobs/centipede_desert/Article=一條
 
 Mobs/centipede_desert_body/Name=蜈蚣
 Mobs/centipede_desert_body/Description=它有點匆忙趕急，跑快一點！
-Mobs/rock/Article=一條
+Mobs/centipede_desert_body/Article=一條
 
 Mobs/square/Name=方塊
 Mobs/square/Description=這個外表⋯⋯似是舊時相識⋯⋯
-Mobs/rock/Article=一塊
+Mobs/square/Article=一塊
 
 Mobs/ladybug_dark/Name=瓢蟲
 Mobs/ladybug_dark/Description=可愛而無害，除非你招惹了它。
-Mobs/rock/Article=一隻
+Mobs/ladybug_dark/Article=一隻
 
 Mobs/ladybug_shiny/Name=瓢蟲
 Mobs/ladybug_shiny/Description=閃亮，可愛，而且一般無害。
-Mobs/rock/Article=一隻
+Mobs/ladybug_shiny/Article=一隻
 
 Mobs/spider/Name=蜘蛛
 Mobs/spider/Description=驚駭。
-Mobs/rock/Article=一隻
+Mobs/spider/Article=一隻
 
 Mobs/scorpion/Name=蝎子
 Mobs/scorpion/Description=它會蜇人！
-Mobs/rock/Article=一隻
+Mobs/scorpion/Article=一隻
 
 Mobs/fire_ant_soldier/Name=兵火蟻
 Mobs/fire_ant_soldier/Description=這隻螞蟻火力全開。
-Mobs/rock/Article=一隻
+Mobs/fire_ant_soldier/Article=一隻
 
 Mobs/fire_ant_burrow/Name=火蟻穴
 Mobs/fire_ant_burrow/Description=裡面可以找到什麼？
-Mobs/rock/Article=一座
+Mobs/fire_ant_burrow/Article=一座
 
 Mobs/sandstorm/Name=沙塵暴
 Mobs/sandstorm/Description=自然災害。
-Mobs/rock/Article=一場
+Mobs/sandstorm/Article=一場
 
 Mobs/bubble/Name=泡沫
 Mobs/bubble/Description=啪！
-Mobs/rock/Article=一道
+Mobs/bubble/Article=一道
 
 Mobs/bumble_bee/Name=熊蜂
 Mobs/bumble_bee/Description=熱愛扭臀奔跑。
-Mobs/rock/Article=一隻
+Mobs/bumble_bee/Article=一隻
 
 Mobs/shell/Name=海貝
 Mobs/shell/Description=守口如瓶。
-Mobs/rock/Article=一隻
+Mobs/shell/Article=一隻
 
 Mobs/starfish/Name=水星
 Mobs/starfish/Description=擁有傲人的再生能力。
-Mobs/rock/Article=一隻
+Mobs/starfish/Article=一隻
 
 Mobs/crab/Name=螃蟹
 Mobs/crab/Description=霸道橫行。
-Mobs/rock/Article=一隻
+Mobs/crab/Article=一隻
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=可製作最美味的果醬。
 Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲···
-Mobs/rock/Article=一隻
+Mobs/jellyfish/Article=一隻
 
 Mobs/digger/Name=地下金剛
 Mobs/digger/Description=老兄，你來錯片場啦。
-Mobs/rock/Article=一台
+Mobs/digger/Article=一台
 
 Mobs/sponge/Name=海棉
 Mobs/sponge/Description=多細胞生物。
-Mobs/rock/Article=一隻
+Mobs/sponge/Article=一隻
 
 Mobs/leech/Name=水蛭
 Mobs/leech/Description=我吸我吸！
-Mobs/rock/Article=一隻
+Mobs/leech/Article=一隻
 
 Mobs/leech_body/Name=水蛭
 Mobs/leech_body/Description=我吸我吸！
-Mobs/rock/Article=一隻
+Mobs/leech_body/Article=一隻
 
 Mobs/dandelion/Name=蒲公草
 Mobs/dandelion/Description=蓬松。
-Mobs/rock/Article=一棵
+Mobs/dandelion/Article=一棵
 
 Mobs/fire_ant_baby/Name=幼火蟻
 Mobs/fire_ant_baby/Description=這隻螞蟻火力全開。
-Mobs/rock/Article=一隻
+Mobs/fire_ant_baby/Article=一隻
 
 Mobs/fire_ant_worker/Name=工火蟻
 Mobs/fire_ant_worker/Description=這隻螞蟻火力全開。
-Mobs/rock/Article=一隻
+Mobs/fire_ant_worker/Article=一隻
 
 Mobs/fire_ant_queen/Name=火蟻帝后
 Mobs/fire_ant_queen/Description=這隻螞蟻火力全開。
-Mobs/rock/Article=一隻
+Mobs/fire_ant_queen/Article=一隻
 
 Mobs/ant_egg/Name=蟻卵
 Mobs/ant_egg/Description=裡面孕育著一新生命。
-Mobs/rock/Article=一顆
+Mobs/ant_egg/Article=一顆
 
 Mobs/fire_ant_egg/Name=火蟻卵
 Mobs/fire_ant_egg/Description=準備火力全開。
-Mobs/rock/Article=一顆
+Mobs/fire_ant_egg/Article=一顆
 
 Mobs/fly/Name=蒼蠅
 Mobs/fly/Description=滋滋作響！
-Mobs/rock/Article=一隻
+Mobs/fly/Article=一隻
 
 Mobs/leafbug/Name=葉蟲
 Mobs/leafbug/Description=披上拙劣葉子偽裝的蟲子。
-Mobs/rock/Article=一隻
+Mobs/leafbug/Article=一隻
 
 Mobs/mantis/Name=螳螂
 Mobs/mantis/Description=你最好祈禱你不會成為它的晚餐。
-Mobs/rock/Article=一隻
+Mobs/mantis/Article=一隻
 
 Mobs/termite_baby/Name=幼白蟻
 Mobs/termite_baby/Description=羽翼未豐，卻有宏大遠景。<n/>這些生命似乎存在某種聯繫。
-Mobs/rock/Article=一隻
+Mobs/termite_baby/Article=一隻
 
 Mobs/termite_worker/Name=白工蟻
 Mobs/termite_worker/Description=脾氣暴躁，可能是過勞工作的緣故。<n/>這些生命似乎存在某種聯繫。
-Mobs/rock/Article=一隻
+Mobs/termite_worker/Article=一隻
 
 Mobs/termite_soldier/Name=白兵蟻
 Mobs/termite_soldier/Description=羽翼已豐，準備施展抱負。<n/>這些生命似乎存在某種聯繫。
-Mobs/rock/Article=一隻
+Mobs/termite_soldier/Article=一隻
 
 Mobs/termite_overmind/Name=白蟻帝君
 Mobs/termite_overmind/Description=目空一切。
-Mobs/rock/Article=一隻
+Mobs/termite_overmind/Article=一隻
 
 Mobs/termite_mound/Name=白蟻丘谷
 Mobs/termite_mound/Description=它們麻木地出出入入，無法解釋。
-Mobs/rock/Article=一座
+Mobs/termite_mound/Article=一座
 
 Mobs/termite_egg/Name=白蟻卵
 Mobs/termite_egg/Description=裡面孕育著一新生命。
-Mobs/rock/Article=一顆
+Mobs/termite_egg/Article=一顆
 
 Mobs/bush/Name=灌木叢
 Mobs/bush/Description=裡面應有盡有。
-Mobs/rock/Article=一棵
+Mobs/bush/Article=一棵
 
 Mobs/roach/Name=髒螂
 Mobs/roach/Description=窮盡生命只為追上你。
-Mobs/rock/Article=一隻
+Mobs/roach/Article=一隻
 
 Mobs/moth/Name=花蛾
 Mobs/moth/Description=體質過敏，請小心對待。
-Mobs/rock/Article=一隻
+Mobs/moth/Article=一隻
 
 Mobs/firefly/Name=流螢
 Mobs/firefly/Description=哦，閃閃發光。
 Mobs/firefly/Spawn=天際劃過一抹刺眼光芒⋯⋯
-Mobs/rock/Article=一隻
+Mobs/firefly/Article=一隻
 
 Mobs/beetle_hel/Name=甲蟲
 Mobs/beetle_hel/Description=產自另一維度的惡物。
 Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一隻
+Mobs/beetle_hel/Article=一隻
 
 Mobs/wasp/Name=胡蜂
 Mobs/wasp/Description=它們憤世嫉俗。
-Mobs/rock/Article=一隻
+Mobs/wasp/Article=一隻
 
 Mobs/dummy/Name=陪練
 Mobs/dummy/Description=你是如何佔有了它？
-Mobs/rock/Article=一個
+Mobs/dummy/Article=一個
 
 Mobs/spider_hel/Name=蜘蛛
-Mobs/beetle_hel/Description=產自另一維度的惡物。
-Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一隻
+Mobs/spider_hel/Description=產自另一維度的惡物。
+Mobs/spider_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/spider_hel/Article=一隻
 
 Mobs/centipede_hel/Name=蜈蚣
-Mobs/beetle_hel/Description=產自另一維度的惡物。
-Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一條
+Mobs/centipede_hel/Description=產自另一維度的惡物。
+Mobs/centipede_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/centipede_hel/Article=一條
 
 Mobs/centipede_hel_body/Name=蜈蚣
-Mobs/beetle_hel/Description=產自另一維度的惡物。
-Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一條
+Mobs/centipede_hel_body/Description=產自另一維度的惡物。
+Mobs/centipede_hel_body/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/centipede_hel_body/Article=一條
 
 Mobs/wasp_hel/Name=黃蜂
-Mobs/beetle_hel/Description=產自另一維度的惡物。
-Mobs/beetle_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
-Mobs/rock/Article=一隻
+Mobs/wasp_hel/Description=產自另一維度的惡物。
+Mobs/wasp_hel/Spawn=你感知到來自異域的不祥預兆⋯⋯
+Mobs/wasp_hel/Article=一隻
 
 Mobs/trader/Name=商人
-Mobs/rock/Article=一位
+Mobs/trader/Article=一位
 
 Mobs/gambler/Name=惡墮賭徒
 Mobs/gambler/Description=這也可能會發生在你身上。
 Mobs/gambler/Spawn=虛空傳來蠱惑人心的喃喃細語：“再來⋯⋯一場就好⋯⋯”
-Mobs/rock/Article=一位
+Mobs/gambler/Article=一位
 
 Mobs/oracle/Name=祭師
-Mobs/rock/Article=一位
+Mobs/oracle/Article=一位
 
 Mobs/firefly_magic/Name=流螢
 Mobs/firefly_magic/Description=它與生俱來具有招引生靈的天賦。
-Mobs/rock/Article=一隻
+Mobs/firefly_magic/Article=一隻
 
 Mobs/titan/Name=泰坦
-Mobs/rock/Article=一座
+Mobs/titan/Article=一座
 
 Mobs/beetle_nazar/Name=甲蟲
 Mobs/beetle_nazar/Description=身上詭譎的圖案……含有什麼意義？
-Mobs/rock/Article=一隻
+Mobs/beetle_nazar/Article=一隻
 
 Mobs/worm/Name=蠕蟲
 Mobs/worm/Description=它應該吃土，卻妄圖吃上花兒肉。
-Mobs/rock/Article=一條
+Mobs/worm/Article=一條
 
 Mobs/worm_guts/Name=蠕蟲內腹
 Mobs/worm_guts/Description=你本不該看到這段文字，請向警察自首。
-Mobs/rock/Article=一條
+Mobs/worm_guts/Article=一條
 
 Mobs/mecha_flower/Name=機甲花兒
 Mobs/mecha_flower/Description=誰一直在背後策劃這驚天陰謀？
-Mobs/rock/Article=一隻
+Mobs/mecha_flower/Article=一隻
 
 Mobs/wasp_mecha/Name=機甲黃瘋
 Mobs/wasp_mecha/Description=它們執行憤世嫉俗的滅世程序。
-Mobs/rock/Article=一隻
+Mobs/wasp_mecha/Article=一隻
 
 Mobs/spider_mecha/Name=機甲痴蛛
 Mobs/spider_mecha/Description=它們執行驚駭的擾亂程序。
-Mobs/rock/Article=一隻
+Mobs/spider_mecha/Article=一隻
