@@ -16,112 +16,132 @@ Petals/rock/Article=一塊
 Petals/square/Name=方塊
 Petals/square/FullName=方塊
 Petals/square/Description=這個形狀⋯⋯似是舊時相識⋯⋯
-Petals/rock/Article=一塊
+Petals/square/Article=一塊
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰 
-Petals/rose/Description=擁有出色的治療功能，戰鬥方面則不太強。
-Petals/basic/Article=一根
+Petals/rose/Description=吸收後治療你的花兒，被破壞時損失效果。
+Petals/rose/Article=一根
 
 Petals/stinger/Name=蜇刺
 Petals/stinger/FullName=蜇刺
 Petals/stinger/Description=傷害很高，但很脆弱。
-Petals/basic/Article=一根
+Petals/stinger/Article=一根
 
 Petals/iris/Name=鳶尾
 Petals/iris/FullName=鳶尾 
-Petals/iris/Description=含有淬毒，毒性傷害完全生效需時。<n/>對其他花兒的效用減半。 
-Petals/basic/Article=一根
+Petals/iris/Description=含有淬毒，毒性傷害的完全生效需時。<n/>對其他花兒的效用減半。 
+Petals/iris/Article=一根
 
 Petals/wing/Name=羽翼
 Petals/wing/FullName=羽翼
 Petals/wing/Description=搖曳。
-Petals/basic/Article=一根
+Petals/wing/Article=一根
 
 Petals/missile/Name=飛刺
 Petals/missile/FullName=飛刺
 Petals/missile/Description=它可以發射。
-Petals/basic/Article=一根
+Petals/missile/Article=一根
 
 Petals/grapes/Name=葡萄
 Petals/grapes/FullName=葡萄
 Petals/grapes/Description=它可以破片濺射。含有淬毒配方。
+Petals/grapes/Article=一串
 
 Petals/cactus/Name=仙人掌
 Petals/cactus/FullName=仙人掌
-Petals/cactus/Description=強度普通，但可以提升花兒的最大血量。
+Petals/cactus/Description=強度普通，但可以提升花兒的血量上限。
+Petals/cactus/Article=一根
 
-Petals/faster/Name=快速
-Petals/faster/FullName=快速
-Petals/faster/Description=它非常輕，甚至可以使其他花瓣旋轉得更快。
+Petals/faster/Name=輕瓣
+Petals/faster/FullName=輕瓣
+Petals/faster/Description=它非常輕，輕得可以帶動其他花瓣旋轉更快。
+Petals/faster/Article=一根
 
-Petals/bubble/Name=泡泡
-Petals/bubble/FullName=泡泡
-Petals/bubble/Description=可以用來推動你前進。
+Petals/bubble/Name=泡沫
+Petals/bubble/FullName=泡沫
+Petals/bubble/Description=爆破時產生反方向的推力。
+Petals/bubble/Article=一顆
 
-Petals/pollen/Name=劃分
-Petals/pollen/FullName=劃分
-Petals/pollen/Description=氣喘患者要小心，因為踩到它會很痛。    
+Petals/pollen/Name=花粉
+Petals/pollen/FullName=花粉
+Petals/pollen/Description=氣管敏感者注意。
+Petals/pollen/Article=一堆
 
-Petals/dandelion/Name=蒲公英
-Petals/dandelion/FullName=蒲公英
-Petals/dandelion/Description=有趣的是，這會使接觸到的所有東西的治療效果降低 20%。與自身堆疊。
+Petals/dandelion/Name=蒲公草
+Petals/dandelion/FullName=蒲公草
+Petals/dandelion/Description=能夠對接觸的目標施加 20% 的治療抑制。效果可堆疊。
+Petals/dandelion/Article=一根
 
-Petals/beetle_egg/Name=卵
+Petals/beetle_egg/Name=蟲卵
 Petals/beetle_egg/FullName=甲蟲卵
 Petals/beetle_egg/Description=裡面可能有一些有趣的東西。
+Petals/beetle_egg/Article=一顆
 
 Petals/antennae/Name=觸角
 Petals/antennae/FullName=觸角
-Petals/antennae/Description=使你能夠感知更遠距離的敵人。
+Petals/antennae/Description=讓你感知更遠距離的敵人。
+Petals/antennae/Article=一對
 
-Petals/heavy/Name=笨重 
-Petals/heavy/FullName=笨重
-Petals/heavy/Description=這東西太重了，什麼也擋不住。<n/>裝備後，你周圍的花瓣旋轉得更慢。
+Petals/heavy/Name=重瓣
+Petals/heavy/FullName=重瓣
+Petals/heavy/Description=這東西太重了，沒有東西能擋下它。<n/>裝備後，其他花瓣將旋轉更慢。
+Petals/heavy/Article=一根
 
 Petals/yin_yang/Name=陰陽
 Petals/yin_yang/FullName=陰陽
 Petals/yin_yang/Description=這片神秘的花瓣以不可預測的方式影響花瓣的旋轉。
+Petals/yin_yang/Article=一道
 
 Petals/web/Name=蛛網
 Petals/web/FullName=蛛網
-Petals/web/Description=它非常粘，甚至於任何進入其中的東西都會變慢。 
+Petals/web/Description=它非常粘，任何深陷其中的東西都會減慢速度。 
+Petals/web/Article=一片
 
-Petals/honey/Name=蜂蜜
-Petals/honey/FullName=蜂蜜
-Petals/honey/Description=昆蟲很喜歡這種東西，它會在很大範圍內吸引它們。<n/>昆蟲會優先選擇這種食物，而不是花。<n/>受影響的單位會在一段時間後對其影響產生免疫。 
+Petals/honey/Name=蜜糖
+Petals/honey/FullName=蜜糖
+Petals/honey/Description=讓昆蟲如癡如醉的小東西。<n/>附近的昆蟲會視其為優先目標。<n/>受影響者隨時間對其效果產生免疫。
+Petals/honey/Article=一顆
 
-Petals/leaf/Name=葉子
-Petals/leaf/FullName=葉子
-Petals/leaf/Description=從太陽中收集能量來被動治癒你的花朵。
+Petals/leaf/Name=葉片
+Petals/leaf/FullName=葉片
+Petals/leaf/Description=進行光合作用來被動治療你的花兒。
+Petals/leaf/Article=一根
 
-Petals/salt/Name=鹽巴
-Petals/salt/FullName=鹽巴
-Petals/salt/Description=將你所受到的部分傷害反射給造成傷害的敵人。<n/>更強大的怪物對傷害反射有更高的抵抗力。
+Petals/salt/Name=鹽晶
+Petals/salt/FullName=鹽晶
+Petals/salt/Description=將部分受到的傷害反彈給對方。<n/>更高級別的生物對傷害反彈擁有更高的抗性。
+Petals/salt/Article=一塊
 
-Petals/rice/Name=米粒
-Petals/rice/FullName=米粒
-Petals/rice/Description=他刷新得很快，但是不太強。
+Petals/rice/Name=白米
+Petals/rice/FullName=白米
+Petals/rice/Description=重生速度極快，但是不太強。
+Petals/rice/Article=一顆
 
-Petals/corn/Name=玉米粒
+Petals/corn/Name=玉米
 Petals/corn/FullName=玉米
-Petals/corn/Description=需要花很多時間來刷新，但是很耐用。
+Petals/corn/Description=重生速度極慢，但是很耐用。
+Petals/corn/Article=一顆
 
-Petals/sand/Name=沙
-Petals/sand/FullName=沙
-Petals/sand/Description=一堆沙粒。
+Petals/sand/Name=砂粒
+Petals/sand/FullName=砂粒
+Petals/sand/Description=非晶體二氧化矽。
+Petals/sand/Article=一顆
 
-Petals/pincer/Name=蠍爪
-Petals/pincer/FullName=蠍爪
-Petals/pincer/Description=暫時削弱敵人並降低他們的速度。 
+Petals/pincer/Name=蜇鉗
+Petals/pincer/FullName=蜇鉗
+Petals/pincer/Description=含有淬毒，能暫時癱瘓敵人行動。 
+Petals/pincer/Article=一隻
 
-Petals/yucca/Name=撕爛
-Petals/yucca/FullName=撕爛
-Petals/yucca/Description=治癒你的花，但僅限於防禦狀態。
+Petals/yucca/Name=絲蘭
+Petals/yucca/FullName=絲蘭
+Petals/yucca/Description=被動治療你的花兒，但只在防禦狀態中生效。
+Petals/yucca/Article=一根
 
-Petals/magnet/Name=磁石
-Petals/magnet/FullName=磁石
-Petals/magnet/Description=增加收集花瓣的距離。
+Petals/magnet/Name=磁鐵
+Petals/magnet/FullName=磁鐵
+Petals/magnet/Description=提升吸取掉落物的範圍。
+Petals/magnet/Article=一塊
 
 Petals/yggdrasil/Name=生命之葉
 Petals/yggdrasil/FullName=命葉
