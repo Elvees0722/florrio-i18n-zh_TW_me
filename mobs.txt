@@ -16,23 +16,23 @@ Mobs/bee/Name=蜜蜂
 Mobs/bee/Description=別碰，會蜇你。
 Mobs/rock/Article=一隻
 
-Mobs/ant_baby/Name=幼蟻
+Mobs/ant_baby/Name=幼黑蟻
 Mobs/ant_baby/Description=羽翼未豐，卻有宏大遠景。
 Mobs/rock/Article=一隻
 
-Mobs/ant_worker/Name=工蟻
+Mobs/ant_worker/Name=黑工蟻
 Mobs/ant_worker/Description=脾氣暴躁，可能是過勞工作的緣故。
 Mobs/rock/Article=一隻
 
-Mobs/ant_soldier/Name=兵蟻
+Mobs/ant_soldier/Name=黑兵蟻
 Mobs/ant_soldier/Description=羽翼已豐，準備施展抱負。
 Mobs/rock/Article=一隻
 
-Mobs/ant_queen/Name=蟻后
+Mobs/ant_queen/Name=黑蟻帝后
 Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
 Mobs/rock/Article=一隻
 
-Mobs/ant_hole/Name=蟻穴
+Mobs/ant_hole/Name=黑蟻穴
 Mobs/ant_hole/Description=螞蟻進去又出來，無法解釋。
 Mobs/rock/Article=一座
 
@@ -41,7 +41,7 @@ Mobs/beetle/Description=飢餓的甲蟲最喜歡的食物就是花兒。
 Mobs/rock/Article=一隻
 
 Mobs/hornet/Name=黃蜂
-Mobs/hornet/Description=它不如那侏儒親戚親切善良。
+Mobs/hornet/Description=它不如那侏儒親戚般親切善良。
 Mobs/hornet/Spawn=草木之上一具金黃身軀閃亮登場……
 Mobs/rock/Article=一隻
 
@@ -99,99 +99,130 @@ Mobs/rock/Article=一座
 
 Mobs/sandstorm/Name=沙塵暴
 Mobs/sandstorm/Description=自然災害。
+Mobs/rock/Article=一場
 
 Mobs/bubble/Name=泡沫
 Mobs/bubble/Description=啪！
+Mobs/rock/Article=一道
 
 Mobs/bumble_bee/Name=熊蜂
 Mobs/bumble_bee/Description=熱愛扭臀奔跑。
+Mobs/rock/Article=一隻
 
-Mobs/shell/Name=貝殼
-Mobs/shell/Description=這不是廣告。
+Mobs/shell/Name=海貝
+Mobs/shell/Description=守口如瓶。
+Mobs/rock/Article=一隻
 
 Mobs/starfish/Name=水星
-Mobs/starfish/Description=他的名字叫派大星。
+Mobs/starfish/Description=擁有傲人的再生能力。
+Mobs/rock/Article=一隻
 
 Mobs/crab/Name=螃蟹
-Mobs/crab/Description=蟹老板。
+Mobs/crab/Description=霸道橫行。
+Mobs/rock/Article=一隻
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=可製作最美味的果醬。
-Mobs/jellyfish/Spawn=您聽到雷擊聲從遠方傳來···
+Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲···
+Mobs/rock/Article=一隻
 
-Mobs/digger/Name=挖掘機
-Mobs/digger/Description=這是一個不同的遊戲。
+Mobs/digger/Name=地下金剛
+Mobs/digger/Description=兄弟，你來錯片場啦。
+Mobs/rock/Article=一台
 
 Mobs/sponge/Name=海棉
-Mobs/sponge/Description=Bob
+Mobs/sponge/Description=多細胞生物。
+Mobs/rock/Article=一隻
 
 Mobs/leech/Name=水蛭
-Mobs/leech/Description=只喝血。
+Mobs/leech/Description=我吸我吸！
+Mobs/rock/Article=一隻
 
 Mobs/leech_body/Name=水蛭
-Mobs/leech_body/Description=只喝血。
+Mobs/leech_body/Description=我吸我吸！
+Mobs/rock/Article=一隻
 
-Mobs/dandelion/Name=蒲公英
-Mobs/dandelion/Description=蓬松的。
+Mobs/dandelion/Name=蒲公草
+Mobs/dandelion/Description=蓬松。
+Mobs/rock/Article=一朵
 
-Mobs/fire_ant_baby/Name=小火蟻
+Mobs/fire_ant_baby/Name=幼火蟻
 Mobs/fire_ant_baby/Description=這隻螞蟻火力全開。
+Mobs/rock/Article=一隻
 
 Mobs/fire_ant_worker/Name=工火蟻
 Mobs/fire_ant_worker/Description=這隻螞蟻火力全開。
+Mobs/rock/Article=一隻
 
-Mobs/fire_ant_queen/Name=火蚁后
+Mobs/fire_ant_queen/Name=火蟻帝后
 Mobs/fire_ant_queen/Description=這隻螞蟻火力全開。
+Mobs/rock/Article=一隻
 
 Mobs/ant_egg/Name=蟻卵
-Mobs/ant_egg/Description=它不是螞蟻，但也許它很快就會變成螞蟻。
+Mobs/ant_egg/Description=裡面孕育著一新生命。
+Mobs/rock/Article=一顆
 
 Mobs/fire_ant_egg/Name=火蟻卵
-Mobs/fire_ant_egg/Description=這隻螞蟻還沒有火力全開。
+Mobs/fire_ant_egg/Description=準備火力全開。
+Mobs/rock/Article=一顆
 
 Mobs/fly/Name=蒼蠅
-Mobs/fly/Description=嗡嗡嗡嗡！
+Mobs/fly/Description=滋滋作響！
+Mobs/rock/Article=一隻
 
 Mobs/leafbug/Name=葉蟲
-Mobs/leafbug/Description=它不是葉子，但它是蟲子。
+Mobs/leafbug/Description=披上拙劣葉子偽裝的蟲子。
+Mobs/rock/Article=一隻
 
 Mobs/mantis/Name=螳螂
-Mobs/mantis/Description=你最好祈禱你不會成為晚餐。
+Mobs/mantis/Description=你最好祈禱你不會成為它的晚餐。
+Mobs/rock/Article=一隻
 
-Mobs/termite_baby/Name=小白蟻
-Mobs/termite_baby/Description=弱小無助，卻有遠大的夢想。<n/>這些生物似乎有某種聯繫。
+Mobs/termite_baby/Name=幼白蟻
+Mobs/termite_baby/Description=羽翼未豐，卻有宏大遠景。<n/>這些生命似乎存在某種聯繫。
+Mobs/rock/Article=一隻
 
-Mobs/termite_worker/Name=工白蟻
-Mobs/termite_worker/Description=它有點不穩定，可能是因為它一直都在工作。<n/>這些生物似乎有某種聯繫。
+Mobs/termite_worker/Name=白工蟻
+Mobs/termite_worker/Description=脾氣暴躁，可能是過勞工作的緣故。<n/>這些生命似乎存在某種聯繫。
+Mobs/rock/Article=一隻
 
-Mobs/termite_soldier/Name=兵白蟻
-Mobs/termite_soldier/Description=它有翅膀，而且已經準備好使用了。<n/>這些生物似乎有某種聯繫。
+Mobs/termite_soldier/Name=白兵蟻
+Mobs/termite_soldier/Description=羽翼已豐，準備施展抱負。<n/>這些生命似乎存在某種聯繫。
+Mobs/rock/Article=一隻
 
-Mobs/termite_overmind/Name=白蟻霸主
-Mobs/termite_overmind/Description=監督一切的那一位。
+Mobs/termite_overmind/Name=白蟻帝君
+Mobs/termite_overmind/Description=目空一切。
+Mobs/rock/Article=一隻
 
-Mobs/termite_mound/Name=白蟻丘
-Mobs/termite_mound/Description=白蟻進去又出來，無法解釋。
+Mobs/termite_mound/Name=白蟻丘谷
+Mobs/termite_mound/Description=它們麻木地出出入入，無法解釋。
+Mobs/rock/Article=一座
 
 Mobs/termite_egg/Name=白蟻卵
-Mobs/termite_egg/Description=還不是白蟻，但也許快了。
+Mobs/termite_egg/Description=裡面孕育著一新生命。
+Mobs/rock/Article=一顆
 
-Mobs/bush/Name=灌木
-Mobs/bush/Description=別小看我。
+Mobs/bush/Name=灌木叢
+Mobs/bush/Description=裡面應有盡有。
+Mobs/rock/Article=一棵
 
 Mobs/roach/Name=髒螂
-Mobs/roach/Description=必須跑得快···直到累了為止。
+Mobs/roach/Description=窮盡生命只為追上你。
+Mobs/rock/Article=一隻
 
-Mobs/moth/Name=蛾
-Mobs/moth/Description=容易害怕，請小心。
+Mobs/moth/Name=花蛾
+Mobs/moth/Description=體質過敏，請小心對待。
+Mobs/rock/Article=一隻
 
-Mobs/firefly/Name=螢火蟲
+Mobs/firefly/Name=流螢
 Mobs/firefly/Description=哦，閃閃發光。
-Mobs/firefly/Spawn=地平線上出現了一道明亮的光芒···
+Mobs/firefly/Spawn=天際劃過一抹刺眼光芒⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/beetle_hel/Name=甲蟲
-Mobs/beetle_hel/Description=黑暗生物從另一個位面產生。
-Mobs/beetle_hel/Spawn=你感覺到來自不同領域的不祥振動···
+Mobs/beetle_hel/Description=產自另一維度的惡物。
+Mobs/beetle_hel/Spawn=你感知到來自另一領域的不祥預兆⋯⋯
+Mobs/rock/Article=一隻
 
 Mobs/wasp/Name=黃蜂
 Mobs/wasp/Description=它們很生氣。
