@@ -103,7 +103,7 @@ Mobs/sandstorm/Article=一場
 
 Mobs/bubble/Name=泡沫
 Mobs/bubble/Description=啪！
-Mobs/bubble/Article=一道
+Mobs/bubble/Article=一顆
 
 Mobs/bumble_bee/Name=熊蜂
 Mobs/bumble_bee/Description=熱愛扭臀奔跑。
