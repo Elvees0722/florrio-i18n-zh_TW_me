@@ -183,8 +183,8 @@ Petals/cutter/FullName=鋸齒
 Petals/cutter/Description=這是一位老朋友的遺產……現在是為其復仇的時候了。<n/>能夠提升花兒的傷害。
 Petals/cutter/Article=一具
 
-Petals/dahlia/Name=大理花
-Petals/dahlia/FullName=大理花
+Petals/dahlia/Name=牡丹
+Petals/dahlia/FullName=天竺牡丹
 Petals/dahlia/Description=每顆複本的治療量不大，勝在風險分散。
 Petals/dahlia/Article=一串
 
