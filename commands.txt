@@ -31,7 +31,7 @@ Chat/Command/squad-leave/Args=
 Chat/Command/squad-leave/Description=離開小隊
 
 Chat/Command/squad-find-public/Args=
-Chat/Command/squad-find-public/Description=加入隨機一個公開小隊
+Chat/Command/squad-find-public/Description=隨機加入一個公開小隊
 
 Chat/Command/squad-public/Args=
 Chat/Command/squad-public/Description=小隊設為公開
