@@ -309,7 +309,7 @@ Petals/rubber/Article=一塊
 
 Petals/blood_stinger/Name=蜇刺
 Petals/blood_stinger/FullName=血祭蜇刺
-Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>消耗花兒生命製成。
+Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>耗用生命製成。
 Petals/blood_stinger/Article=一根
 
 Petals/bur/Name=毛刺
