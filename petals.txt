@@ -346,7 +346,7 @@ Petals/battery/Article=一節
 Petals/amulet/Name=護符
 Petals/amulet/FullName=解厄之符
 Petals/amulet/Description=一道鍊飾，能將溢出的治療轉化成護盾。
-Petals/compass/Article=一道
+Petals/amulet/Article=一道
 
 Petals/compass/Name=羅盤
 Petals/compass/FullName=羅盤
@@ -355,23 +355,26 @@ Petals/compass/Article=一道
 
 Petals/disc/Name=圓盤
 Petals/disc/FullName=圓盤
-Petals/disc/Description=減少與敵人和花朵碰撞所造成的傷害。
+Petals/disc/Description=減少與敵人碰撞時所受傷害。
+Petals/compass/Article=一塊
 
-Petals/shovel/Name=杴
-Petals/shovel/FullName=杴
-Petals/shovel/Description=鑽入地下躲避敵人。在此期間您無法使用花瓣。
+Petals/shovel/Name=鐵鏟
+Petals/shovel/FullName=鐵鏟
+Petals/shovel/Description=遁入地下躲避敵人。在此期間您不能使用花瓣。
+Petals/shovel/Article=一把
 
 Petals/coin/Name=硬幣
 Petals/coin/FullName=硬幣
-Petals/coin/Description=商業的力量迫使您！
+Petals/coin/Description=資本主義的壓迫無處不在！
+Petals/coin/Article=一枚
 
 Petals/chip/Name=籌碼
-Petals/chip/FullName=撲克籌碼
-Petals/chip/Description=撲克籌碼。可以迴避受到的傷害。
+Petals/chip/FullName=籌碼
+Petals/chip/Description=充滿未知的道具。可以迴避所受傷害。
 
-Petals/card/Name=撲克牌
-Petals/card/FullName=撲克牌
-Petals/card/Description=一種撲克牌。它的強度和耐用性取決於您玩的花色。
+Petals/card/Name=撲克
+Petals/card/FullName=撲克
+Petals/card/Description=它的強度取決於你玩的花色。
 
 Petals/moon/Name=月岩
 Petals/moon/FullName=月岩
