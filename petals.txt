@@ -151,7 +151,7 @@ Petals/yggdrasil/Article=一根
 Petals/starfish/Name=海星
 Petals/starfish/FullName=海星
 Petals/starfish/Description=在花兒血量低於 75% 時提供被動治療。
-Petals/starfish/Article=一根
+Petals/starfish/Article=一節
 
 Petals/pearl/Name=珍珠
 Petals/pearl/FullName=珍珠
@@ -334,21 +334,24 @@ Petals/dice/Description=有 5% 的幾率造成 35 倍的傷害。<n/>每點運�
 Petals/dice/Article=一顆
 
 Petals/talisman/Name=護符
-Petals/talisman/FullName=護符
-Petals/talisman/Description=一道鍊飾，使佩戴者能夠迴避敵人攻擊。
+Petals/talisman/FullName=生機之符
+Petals/talisman/Description=一道鍊飾，能使佩戴者迴避敵人攻擊。
 Petals/talisman/Article=一道
 
 Petals/battery/Name=電池
 Petals/battery/FullName=電池
-Petals/battery/Description=當花朵受到傷害時，它會釋放閃電。
+Petals/battery/Description=摩擦生電。<n/>當花朵受到傷害時，它會充能釋出閃電。
+Petals/battery/Article=一節
 
-Petals/amulet/Name=護身符
-Petals/amulet/FullName=護身符
-Petals/amulet/Description=一個神奇的護身符，能將過度的治療轉換成護盾。
+Petals/amulet/Name=護符
+Petals/amulet/FullName=解厄之符
+Petals/amulet/Description=一道鍊飾，能將溢出的治療轉化成護盾。
+Petals/compass/Article=一道
 
-Petals/compass/Name=指南針
-Petals/compass/FullName=指南針
-Petals/compass/Description=這個破羅盤也許會有有趣的發現...
+Petals/compass/Name=羅盤
+Petals/compass/FullName=羅盤
+Petals/compass/Description=這個破東西也許會有有趣的發現⋯⋯
+Petals/compass/Article=一道
 
 Petals/disc/Name=圓盤
 Petals/disc/FullName=圓盤
