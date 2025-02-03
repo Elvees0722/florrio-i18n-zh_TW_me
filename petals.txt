@@ -309,8 +309,8 @@ Petals/rubber/Description=增加花兒受到的擊退。且能吸收來襲的電
 Petals/rubber/Article=一塊
 
 Petals/blood_stinger/Name=蜇刺
-Petals/blood_stinger/FullName=血祭蜇刺
-Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>耗用生命製成。
+Petals/blood_stinger/FullName=血祭的蜇刺
+Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>燃燒生命製成。
 Petals/blood_stinger/Article=一根
 
 Petals/bur/Name=毛刺
