@@ -110,7 +110,7 @@ Petals/leaf/Article=一根
 
 Petals/salt/Name=鹽晶
 Petals/salt/FullName=鹽晶
-Petals/salt/Description=將部分受到的傷害反彈給對方。<n/>更高級別的生物對傷害反彈擁有更高的抗性。
+Petals/salt/Description=將部分受到的傷害反彈給對方。<n/>更高等級的敵人對反傷擁有更高抗性。
 Petals/salt/Article=一塊
 
 Petals/rice/Name=白米
@@ -230,7 +230,7 @@ Petals/clover/Article=一根
 
 Petals/powder/Name=粉末
 Petals/powder/FullName=詭異的粉末
-Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定級別以上的敵人時，它就會湮沒。
+Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定等級以上的敵人時，它就會湮沒。
 Petals/powder/Article=一堆
 
 Petals/air/Name=虛空
@@ -460,7 +460,7 @@ Petals/nazar/Article=一道
 
 Petals/mimic/Name=擬態
 Petals/mimic/FullName=擬態程序
-Petals/mimic/Description=模擬處於其槽位左一的花瓣，級別取決於程序本身。
+Petals/mimic/Description=模擬處於其槽位左一的花瓣，等級取決於程序本身。
 Petals/mimic/Article=一道
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
