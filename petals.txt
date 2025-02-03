@@ -1,4 +1,3 @@
-Petals/basic/Name=單瓣
 Petals/basic/FullName=單瓣
 Petals/basic/Description=一個不錯的花瓣，不很強，也不很弱。
 Petals/basic/Article=一根
@@ -200,7 +199,7 @@ Petals/sponge/Article=一塊
 
 Petals/soil/Name=土壤
 Petals/soil/FullName=土壤
-Petals/soil/Description=提升你花兒的血量及身型，但減低移動速度。
+Petals/soil/Description=提升花兒的血量及身型，但減低移動速度。
 Petals/soil/Article=一塊
 
 Petals/fangs/Name=獠牙
