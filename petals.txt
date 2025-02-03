@@ -466,16 +466,18 @@ Petals/mimic/Article=一道
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
-Petals/mjolnir/Article=一尊
 
 Petals/mjolnir/not-unique/Name=碎片
 Petals/mjolnir/not-unique/FullName=碎片
 Petals/mjolnir/not-unique/Description=也許可以用來鑄造一些偉大的東西？
+Petals/mjolnir/not-unique/Article=一塊
 
-Petals/mjolnir/unique/Name=米約諾爾
-Petals/mjolnir/unique/FullName=米約諾爾
-Petals/mjolnir/unique/Description=只有宇宙中最強大的錘子。
+Petals/mjolnir/unique/Name=雷神之鎚
+Petals/mjolnir/unique/FullName=雷神之鎚
+Petals/mjolnir/unique/Description=浩瀚宇宙中唯一無上的錘子。
+Petals/mjolnir/unique/Article=一尊
 	
-Petals/mecha_missile/Name=飛彈
-Petals/mecha_missile/FullName=機械飛彈
-Petals/mecha_missile/Description=鎖定目標。
+Petals/mecha_missile/Name=飛刺
+Petals/mecha_missile/FullName=機動飛刺
+Petals/mecha_missile/Description=發射。鎖定目標。
+Petals/mecha_missile/Article=一根
