@@ -261,7 +261,7 @@ Petals/poo/Article=一坨
 Petals/relic/Name=遺物
 Petals/relic/FullName=遠古遺物
 Petals/relic/Description=一個神秘的遺物。能夠倍增花兒的血量上限。<n/>所受傷害將通過遠古力量分攤給其他配戴者。
-Petals/poo/Article=一道
+Petals/relic/Article=一道
 
 Petals/lotus/Name=蓮花
 Petals/lotus/FullName=蓮花
