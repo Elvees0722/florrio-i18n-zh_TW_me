@@ -20,7 +20,7 @@ Petals/square/Article=一塊
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰 
-Petals/rose/Description=吸收後治療你的花兒，被破壞時損失效果。
+Petals/rose/Description=吸收時治療你的花兒，被破壞則損失效果。
 Petals/rose/Article=一根
 
 Petals/stinger/Name=蜇刺
@@ -90,12 +90,12 @@ Petals/heavy/Article=一根
 
 Petals/yin_yang/Name=陰陽
 Petals/yin_yang/FullName=陰陽
-Petals/yin_yang/Description=這片神秘的花瓣以不可預測的方式影響花瓣的旋轉。
+Petals/yin_yang/Description=這道神秘的花瓣能夠逆轉花瓣的旋轉方向。
 Petals/yin_yang/Article=一道
 
 Petals/web/Name=蛛網
 Petals/web/FullName=蛛網
-Petals/web/Description=它非常黏，任何深陷其中的東西都會減慢速度。 
+Petals/web/Description=它非常黏，任何深陷其中的敵人都會受減速。 
 Petals/web/Article=一片
 
 Petals/honey/Name=蜜糖
