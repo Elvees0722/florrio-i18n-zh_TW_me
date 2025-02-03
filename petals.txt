@@ -105,7 +105,7 @@ Petals/honey/Article=一顆
 
 Petals/leaf/Name=葉片
 Petals/leaf/FullName=葉片
-Petals/leaf/Description=進行光合作用來被動治療你的花兒。
+Petals/leaf/Description=進行光合作用，被動治療你的花兒。
 Petals/leaf/Article=一根
 
 Petals/salt/Name=鹽晶
@@ -185,12 +185,12 @@ Petals/cutter/Article=一具
 
 Petals/dahlia/Name=大理花
 Petals/dahlia/FullName=大理花
-Petals/dahlia/Description=每顆複本的治療量不大，但能夠分散風險。
+Petals/dahlia/Description=每顆複本的治療量不大，勝在風險分散。
 Petals/dahlia/Article=一根
 
 Petals/uranium/Name=鈾礦
 Petals/uranium/FullName=鈾礦
-Petals/uranium/Description=緩慢釋放輻射。<n/>對其他花朵的效果減少四分三。<n/>造成傷害取決於與目標的距離。
+Petals/uranium/Description=緩慢釋放輻射。<n/>對其他花朵的效果減少 75%。<n/>造成傷害取決於與目標的距離。
 Petals/uranium/Article=一顆
 
 Petals/sponge/Name=海綿
@@ -219,7 +219,7 @@ Petals/peas/Description=它可以破片濺射。
 Petals/third_eye/Article=一串
 
 Petals/stick/Name=木枝
-Petals/stick/FullName=詭異木枝
+Petals/stick/FullName=詭異的木枝
 Petals/stick/Description=可以喚醒風靈力量的神秘道具。
 Petals/stick/Article=一根
 
@@ -229,7 +229,7 @@ Petals/clover/Description=提升你的運氣。<n/>更高的運氣可提升特�
 Petals/clover/Article=一根
 
 Petals/powder/Name=粉末
-Petals/powder/FullName=詭異粉末
+Petals/powder/FullName=詭異的粉末
 Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定等級以上的敵人時，它就會湮沒。
 Petals/powder/Article=一堆
 
@@ -248,7 +248,7 @@ Petals/orange/FullName=橘橙
 Petals/orange/Description=成串出現的柑橘類水果。
 Petals/orange/Article=一串
 
-Petals/ant_egg/Name=卵
+Petals/ant_egg/Name=蟲卵
 Petals/ant_egg/FullName=螞蟻卵
 Petals/ant_egg/Description=裡面可能有一些有趣的東西。
 Petals/ant_egg/Article=一顆
@@ -370,87 +370,107 @@ Petals/coin/Article=一枚
 
 Petals/chip/Name=籌碼
 Petals/chip/FullName=籌碼
-Petals/chip/Description=充滿未知的道具。可以迴避所受傷害。
+Petals/chip/Description=充滿未知的道具。隨機迴避所受傷害。
+Petals/chip/Article=一片
 
 Petals/card/Name=撲克
 Petals/card/FullName=撲克
 Petals/card/Description=它的強度取決於你玩的花色。
+Petals/card/Article=一片
 
-Petals/moon/Name=月岩
-Petals/moon/FullName=月岩
-Petals/moon/Description=它太大了，你的花瓣反而會繞著它轉。<n/>你到底在哪裡找到的呢？
+Petals/moon/Name=月石
+Petals/moon/FullName=月石
+Petals/moon/Description=質量之大，你的花瓣都繞它而轉。<n/>你到底是在哪兒找到它呢？
+Petals/card/Article=一座
 
-Petals/privet/Name=楊梅
-Petals/privet/FullName=楊梅
-Petals/privet/Description=在現有中毒傷害的基礎上，每秒造成額外的中毒傷害。
+Petals/privet/Name=女貞
+Petals/privet/FullName=女貞
+Petals/privet/Description=令已中毒的對象急性毒發，造成即時性傷害。
+Petals/privet/Article=一顆
 
 Petals/glass/Name=玻璃
 Petals/glass/FullName=玻璃
-Petals/glass/Description=這可以穿過敵人。<n/>它不能在一定間隔內對敵人造成超過一定次數的傷害。
+Petals/glass/Description=它可以穿透敵人。<n/>每隔固定的時間造成一次傷害。
+Petals/glass/Article=一塊
 
-Petals/corruption/Name=腐敗
-Petals/corruption/FullName=腐敗
-Petals/corruption/Description=腐蝕普通人的靈魂，讓他們反對自己的同類。
+Petals/corruption/Name=惡墮根源
+Petals/corruption/FullName=惡墮根源
+Petals/corruption/Description=腐蝕花兒的靈魂，使之與同類拔刀相向。
+Petals/corruption/Article=一道
 
-Petals/orb/Name=法理
-Petals/orb/FullName=法理球
-Petals/orb/Description=創造法力。
+Petals/orb/Name=靈石
+Petals/orb/FullName=靈石
+Petals/orb/Description=招引靈力。
+Petals/orb/Article=一顆
 
 Petals/blueberries/Name=藍莓
 Petals/blueberries/FullName=藍莓
-Petals/blueberries/Description=它可以自行發射。現在有了秘密成分：電。
+Petals/blueberries/Description=它可以破片濺射。含有靜電配方。
+Petals/blueberries/Article=一串
 
 Petals/magic_cotton/Name=棉花
-Petals/magic_cotton/FullName=魔術棉
-Petals/magic_cotton/Description=根據您的法力值吸收花朵受到的傷害。
+Petals/magic_cotton/FullName=附靈的棉花
+Petals/magic_cotton/Description=耗用靈力吸收花朵受到的傷害。
+Petals/magic_cotton/Article=一片
 
-Petals/magic_stinger/Name=刺
-Petals/magic_stinger/FullName=魔力刺
-Petals/magic_stinger/Description=它碰到你的確會超級痛，但是它很弱。
+Petals/magic_stinger/Name=蜇刺
+Petals/magic_stinger/FullName=附靈的蜇刺
+Petals/magic_stinger/Description=傷害很高，但很脆弱。
+Petals/magic_stinger/Article=一根
 
-Petals/magic_leaf/Name=葉子
-Petals/magic_leaf/FullName=魔法葉
-Petals/magic_leaf/Description=被動地從環境中收集法力。
+Petals/magic_leaf/Name=葉片
+Petals/magic_leaf/FullName=附靈的葉片
+Petals/magic_leaf/Description=持續從虛空中招引靈力。
+Petals/magic_leaf/Article=一根
 
 Petals/magic_cactus/Name=仙人掌
-Petals/magic_cactus/FullName=魔術仙人掌
-Petals/magic_cactus/Description=增加最大法力容量。
+Petals/magic_cactus/FullName=附靈的仙人掌
+Petals/magic_cactus/Description=提升靈力容量上限。
+Petals/magic_cactus/Article=一根
 
-Petals/magic_eye/Name=魔眼
-Petals/magic_eye/FullName=魔眼
-Petals/magic_eye/Description=消耗你一半的法力值，並根據該值造成傷害。
+Petals/magic_eye/Name=法眼
+Petals/magic_eye/FullName=法眼
+Petals/magic_eye/Description=消耗你一半的靈力，產生相應的電擊傷害。
+Petals/magic_eye/Article=一隻
 
-Petals/magic_missile/Name=飛彈
-Petals/magic_missile/FullName=魔術飛彈
-Petals/magic_missile/Description=您真的可以發射這個···用魔法。
+Petals/magic_missile/Name=飛刺
+Petals/magic_missile/FullName=附靈的飛刺
+Petals/magic_missile/Description=你可以用靈力發射它。
+Petals/magic_missile/Article=一根
 
-Petals/magic_stick/Name=棒
-Petals/magic_stick/FullName=魔術棒
-Petals/magic_stick/Description=以魔法喚起風之力量的神秘球棒。
+Petals/magic_stick/Name=木枝
+Petals/magic_stick/FullName=附靈的木枝
+Petals/magic_stick/Description=可以喚醒風靈力量的附靈道具。
+Petals/magic_stick/Article=一根
 
 Petals/coral/Name=珊瑚
 Petals/coral/FullName=珊瑚
-Petals/coral/Description=撞擊時斷裂。<n/>每一片的傷害和耐久度都是前一片的 50%。
+Petals/coral/Description=撞擊時分裂。<n/>每塊碎片的強度僅有母體的一半。
+Petals/coral/Article=一塊
 
-Petals/magic_bubble/Name=泡泡
-Petals/magic_bubble/FullName=魔法泡泡
-Petals/magic_bubble/Description=可使用魔法推動您前進。
+Petals/magic_bubble/Name=泡沫
+Petals/magic_bubble/FullName=附靈的泡沫
+Petals/magic_bubble/Description=耗用靈力產生反方向的推力。
+Petals/magic_bubble/Article=一顆
 
-Petals/nazar/Name=納札
-Petals/nazar/FullName=納札護身符
-Petals/nazar/Description=將首次受傷的機會降低 98%。
+Petals/nazar/Name=護符
+Petals/nazar/FullName=惡妒護符
+Petals/nazar/Description=抵擋 98% 的單次攻擊傷害。
+Petals/nazar/Article=一道
 
-Petals/mimic/Name=模仿
-Petals/mimic/FullName=模仿
-Petals/mimic/Description=複製此左邊的花瓣，稀有程度與此相同。
+Petals/mimic/Name=擬態
+Petals/mimic/FullName=擬態程序
+Petals/mimic/Description=模擬處於其槽位左一的花瓣，級別取決於程序本身。
+Petals/mimic/Article=一道
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Article=一尊
 
 Petals/mjolnir/not-unique/Name=碎片
 Petals/mjolnir/not-unique/FullName=碎片
-Petals/mjolnir/not-unique/Description=也許這可以用來鑄造一些偉大的東西？
+Petals/mjolnir/not-unique/Description=也許可以用來鑄造一些偉大的東西？
 
 Petals/mjolnir/unique/Name=米約諾爾
 Petals/mjolnir/unique/FullName=米約諾爾
