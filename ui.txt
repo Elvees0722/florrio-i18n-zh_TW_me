@@ -195,7 +195,7 @@ UI/Absorb/Instructions=回收花瓣以換取經驗值<n/><c val="{#Colors/danger
 
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
-UI/CoinCraft/Instructions=你可以用任何花瓣換入一枚相同級別的金幣花瓣
+UI/CoinCraft/Instructions=你可以用任何花瓣換入一枚相同等級的金幣花瓣
 UI/CoinCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次交易
 
 UI/OracleCraft/Title=祭司
@@ -208,8 +208,8 @@ UI/Plinko/Auto=自動
 
 UI/UniqueCraft/Title=鍛造
 UI/UniqueCraft/Button=鍛造
-UI/UniqueCraft/Instructions=每一個<c val="{#Colors/unique}">無上</c>級別的花瓣都是獨一無二的。<n/>當你所持有的<c val="{#Colors/unique}">無上</c>花瓣被其他玩家鍛造出時，你將失去該花瓣，並返還當初鍛造時所花費的<c val="{#Colors/super}">超絕</c>花瓣。<n/>同一花瓣的鍛造成本將隨每次受到鍛造而提升。
-UI/UniqueCraft/NoSupers=你沒有任何<c val="{#Colors/super}">超絕</c>級別的花瓣可供進行鍛造。
+UI/UniqueCraft/Instructions=每一個<c val="{#Colors/unique}">無上</c>等級的花瓣都是獨一無二的。<n/>當你所持有的<c val="{#Colors/unique}">無上</c>花瓣被其他玩家鍛造出時，你將失去該花瓣，並返還當初鍛造時所花費的<c val="{#Colors/super}">超絕</c>花瓣。<n/>同一花瓣的鍛造成本將隨每次受到鍛造而提升。
+UI/UniqueCraft/NoSupers=你沒有任何<c val="{#Colors/super}">超絕</c>等級的花瓣可供進行鍛造。
 
 UI/Death/Poison=淬毒
 
