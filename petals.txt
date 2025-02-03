@@ -35,7 +35,7 @@ Petals/iris/Article=一根
 
 Petals/wing/Name=羽翼
 Petals/wing/FullName=羽翼
-Petals/wing/Description=搖曳。
+Petals/wing/Description=飄逸搖曳。
 Petals/wing/Article=一根
 
 Petals/missile/Name=飛刺
