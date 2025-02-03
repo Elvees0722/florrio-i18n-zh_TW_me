@@ -17,12 +17,12 @@ Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} 在某處誕生了!
 Chat/MobDefeated={#Chat/MobDefeated/{1}}
 Chat/MobDefeated/0=有人擊敗了{#Mobs/AnnouncementPrefix:0}！
 Chat/MobDefeated/1={2} 擊敗了{#Mobs/AnnouncementPrefix:0}！
-Chat/MobDefeated/2={2} 和 {3} 擊敗了{#Mobs/AnnouncementPrefix:0}！
-Chat/MobDefeated/3={2}, {3} 和 {4}{#Mobs/AnnouncementPrefix:0} has been defeated by！
-Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3}, {4} and {5}！
+Chat/MobDefeated/2={2} 和 {3} 合力擊敗了{#Mobs/AnnouncementPrefix:0}！
+Chat/MobDefeated/3={2}, {3} 和 {4} 合力擊敗了{#Mobs/AnnouncementPrefix:0}！
+Chat/MobDefeated/4={2}, {3}, {4} 和 {5} 合力擊敗了{#Mobs/AnnouncementPrefix:0}！
 
-Chat/Revived=You were revived by {0}.
-Chat/Marked=You were marked by {0}.
+Chat/Revived=你被 {0} 救活了。
+Chat/Marked=你被 {0} 標記了。
 
 Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again {0:timeLeft}.
 Chat/Spam=You're doing that too much.
