@@ -230,7 +230,7 @@ Petals/clover/Article=一根
 
 Petals/powder/Name=粉末
 Petals/powder/FullName=詭異的粉末
-Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定等級以上的敵人時，它就會湮沒。
+Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定級別以上的敵人時，它就會湮沒。
 Petals/powder/Article=一堆
 
 Petals/air/Name=虛空
