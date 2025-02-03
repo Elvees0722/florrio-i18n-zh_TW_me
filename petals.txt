@@ -195,12 +195,12 @@ Petals/uranium/Article=一顆
 
 Petals/sponge/Name=海綿
 Petals/sponge/FullName=海綿
-Petals/sponge/Description=能夠將花兒受到的傷害暫時儲存，並在一段時間內逐漸釋放。<n/>被破壞後會立即釋放所有傷害。<n/>不能儲存毒性傷害。
+Petals/sponge/Description=能暫時儲存花兒受到的傷害，並在一段時間內逐漸釋放。<n/>被破壞後會立即釋放所有傷害。<n/>不能儲存毒性傷害。
 Petals/sponge/Article=一塊
 
 Petals/soil/Name=土壤
 Petals/soil/FullName=土壤
-Petals/soil/Description=提升你花兒的血量及身型，但減慢移動速度。
+Petals/soil/Description=提升你花兒的血量及身型，但減低移動速度。
 Petals/soil/Article=一塊
 
 Petals/fangs/Name=獠牙
@@ -220,100 +220,123 @@ Petals/third_eye/Article=一串
 
 Petals/stick/Name=木枝
 Petals/stick/FullName=詭異木枝
-Petals/stick/Description=可以喚醒風靈力量的詭異道具。
+Petals/stick/Description=可以喚醒風靈力量的神秘道具。
 Petals/stick/Article=一根
 
-Petals/clover/Name=苜
-Petals/clover/FullName=苜
-Petals/clover/Description=增加你的運氣。<n/>特定花瓣會利用運氣來提高其效能。
+Petals/clover/Name=幸運草
+Petals/clover/FullName=幸運草
+Petals/clover/Description=提升你的運氣。<n/>更高的運氣可提升特定花瓣的數值。
+Petals/clover/Article=一根
 
 Petals/powder/Name=粉末
-Petals/powder/FullName=神秘粉末
-Petals/powder/Description=提高你的速度。<n/>如果您受到傷害或接近一定稀有度以上的怪物，它就會破裂。
+Petals/powder/FullName=詭異粉末
+Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定等級以上的敵人時，它就會湮沒。
+Petals/powder/Article=一堆
 
-Petals/air/Name=空氣
-Petals/air/FullName=空氣
+Petals/air/Name=虛空
+Petals/air/FullName=虛空
 Petals/air/Description=這裡其實什麼都沒有。
+Petals/air/Article=一片
 
-Petals/basil/Name=羅勒
-Petals/basil/FullName=羅勒
-Petals/basil/Description=增加所有受到的治療。
+Petals/basil/Name=九層塔
+Petals/basil/FullName=九層塔
+Petals/basil/Description=令所受的任何治療倍增。
+Petals/basil/Article=一根
 
-Petals/orange/Name=橙子
-Petals/orange/FullName=橙子
-Petals/orange/Description=一種甜的柑橘類水果，成串出現。
+Petals/orange/Name=橘橙
+Petals/orange/FullName=橘橙
+Petals/orange/Description=成串出現的柑橘類水果。
+Petals/orange/Article=一串
 
 Petals/ant_egg/Name=卵
 Petals/ant_egg/FullName=螞蟻卵
 Petals/ant_egg/Description=裡面可能有一些有趣的東西。
+Petals/ant_egg/Article=一顆
 
-Petals/poo/Name=便便
-Petals/poo/FullName=便便
-Petals/poo/Description=使敵人不太可能攻擊你。
+Petals/poo/Name=大便
+Petals/poo/FullName=大便
+Petals/poo/Description=讓你更難被敵人發現。
+Petals/poo/Article=一坨
 
 Petals/relic/Name=遺物
-Petals/relic/FullName=神秘遺物
-Petals/relic/Description=一個奇怪的遺物。大幅增加最大血量。<n/>受到的傷害會分攤到其他配戴者身上。
+Petals/relic/FullName=遠古遺物
+Petals/relic/Description=一個神秘的遺物。能夠倍增花兒的血量上限。<n/>所受傷害將通過遠古力量分攤給其他配戴者。
+Petals/poo/Article=一道
 
 Petals/lotus/Name=蓮花
-Petals/lotus/FullName=亂花
-Petals/lotus/Description=減少花朵受到的毒害。
+Petals/lotus/FullName=蓮花
+Petals/lotus/Description=減少花朵受到的毒性傷害。
+Petals/lotus/Article=一根
 
 Petals/bulb/Name=燈泡
 Petals/bulb/FullName=燈泡
-Petals/bulb/Description=吸引敵人的閃亮燈泡。
+Petals/bulb/Description=飛蛾撲火。<n/>能挑釁一定範圍內的生物。
+Petals/bulb/Article=一根
 
 Petals/cotton/Name=棉花
 Petals/cotton/FullName=棉花
-Petals/cotton/Description=吸收花朵受到的傷害。
+Petals/cotton/Description=吸收花朵受到的任何傷害。
+Petals/cotton/Article=一片
 
 Petals/carrot/Name=蘿蔔
-Petals/carrot/FullName=紅蘿蔔
-Petals/carrot/Description=堅固可靠。可以發射並從牆壁反彈。
+Petals/carrot/FullName=蘿蔔
+Petals/carrot/Description=堅挺耐用。可發射並從牆壁反彈。
+Petals/carrot/Article=一根
 
 Petals/bone/Name=骨頭
 Petals/bone/FullName=骨頭
 Petals/bone/Description=耐用的。
+Petals/bone/Article=一根
 
 Petals/plank/Name=木板
 Petals/plank/FullName=木板
-Petals/plank/Description=一個大盾牌，對投射物和花瓣造成 20 倍傷害。
+Petals/plank/Description=對發射物及花瓣產生 20 倍傷害。
+Petals/plank/Article=一塊
 
 Petals/tomato/Name=番茄
 Petals/tomato/FullName=番茄
-Petals/tomato/Description=相當弱，但隨著時間的推移會變得非常強。
+Petals/tomato/Description=軟弱青澀，但隨時間成熟。
+Petals/tomato/Article=一顆
 
-Petals/mark/Name=冥界印記
-Petals/mark/FullName=冥界印記
+Petals/mark/Name=印紋
+Petals/mark/FullName=惡墮印紋
 Petals/mark/Description=與墮落的靈魂緊密相連。
+Petals/mark/Article=一道
 
-Petals/rubber/Name=樹膠
-Petals/rubber/FullName=樹膠
-Petals/rubber/Description=增加受到的擊退。還能吸收來襲的雷電傷害。
+Petals/rubber/Name=橡膠
+Petals/rubber/FullName=橡膠
+Petals/rubber/Description=增加花兒受到的擊退。且能吸收來襲的電擊傷害。
+Petals/rubber/Article=一塊
 
-Petals/blood_stinger/Name=刺
-Petals/blood_stinger/FullName=血刺
-Petals/blood_stinger/Description=它碰到你的確會很痛，但是它很弱。<n/>攻擊敵人會對自己造成傷害。
+Petals/blood_stinger/Name=蜇刺
+Petals/blood_stinger/FullName=血祭蜇刺
+Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>消耗花兒生命製成。
+Petals/blood_stinger/Article=一根
 
 Petals/bur/Name=毛刺
 Petals/bur/FullName=毛刺
-Petals/bur/Description=降低受影響單位的護甲。效果不與其自身疊加。
+Petals/bur/Description=能夠暫時減低受影響單位的護甲。效果不能疊加。
+Petals/bur/Article=一顆
 
-Petals/root/Name=根
-Petals/root/FullName=根
-Petals/root/Description=提供額外的裝甲，但僅限於防禦狀態時。
+Petals/root/Name=根莖
+Petals/root/FullName=根莖
+Petals/root/Description=為花兒提供護甲，但只在防禦狀態中生效。
+Petals/root/Article=一棵
 
-Petals/ankh/Name=安赫
-Petals/ankh/FullName=安赫
+Petals/ankh/Name=符文
+Petals/ankh/FullName=生命符文
 Petals/ankh/Description=一處古代遺跡。<n/>當花朵被毀壞時，它會被傳送回被毀壞的地方。
+Petals/ankh/Article=一道
 
 Petals/dice/Name=骰子
 Petals/dice/FullName=骰子
-Petals/dice/Description=有5%的幾率造成35倍的傷害。<n/>每增加一點運氣，機會就會增加4%。
+Petals/dice/Description=有 5% 的幾率造成 35 倍的傷害。<n/>每點運氣將使機率提升 4%。
+Petals/dice/Article=一顆
 
 Petals/talisman/Name=護符
-Petals/talisman/FullName=閃避護身符
-Petals/talisman/Description=使佩戴者能夠預測敵人攻擊的項鍊。
+Petals/talisman/FullName=護符
+Petals/talisman/Description=一道鍊飾，使佩戴者能夠迴避敵人攻擊。
+Petals/talisman/Article=一道
 
 Petals/battery/Name=電池
 Petals/battery/FullName=電池
