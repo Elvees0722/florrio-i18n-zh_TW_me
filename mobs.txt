@@ -267,7 +267,7 @@ Mobs/firefly_magic/Name=流螢
 Mobs/firefly_magic/Description=它與生俱來具有招引生靈的天賦。
 Mobs/firefly_magic/Article=一隻
 
-Mobs/titan/Name=泰坦
+Mobs/titan/Name=遠古泰坦
 Mobs/titan/Article=一座
 
 Mobs/beetle_nazar/Name=甲蟲
