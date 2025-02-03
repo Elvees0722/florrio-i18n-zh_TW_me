@@ -1,3 +1,4 @@
+Petals/basic/Name=單瓣
 Petals/basic/FullName=單瓣
 Petals/basic/Description=一個不錯的花瓣，不很強，也不很弱。
 Petals/basic/Article=一根
