@@ -32,7 +32,7 @@ Mobs/ant_queen/Name=黑蟻帝后
 Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
 Mobs/ant_queen/Article=一隻
 
-Mobs/ant_hole/Name=黑蟻穴谷
+Mobs/ant_hole/Name=黑蟻穴
 Mobs/ant_hole/Description=它們麻木地出出入入，無法被解釋。
 Mobs/ant_hole/Article=一座
 
@@ -93,7 +93,7 @@ Mobs/fire_ant_soldier/Name=紅兵蟻
 Mobs/fire_ant_soldier/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_soldier/Article=一隻
 
-Mobs/fire_ant_burrow/Name=紅蟻穴谷
+Mobs/fire_ant_burrow/Name=紅蟻穴
 Mobs/fire_ant_burrow/Description=裡面可以發現什麼？
 Mobs/fire_ant_burrow/Article=一座
 
@@ -194,7 +194,7 @@ Mobs/termite_overmind/Name=白蟻主宰
 Mobs/termite_overmind/Description=目空一切。
 Mobs/termite_overmind/Article=一隻
 
-Mobs/termite_mound/Name=白蟻丘谷
+Mobs/termite_mound/Name=白蟻丘
 Mobs/termite_mound/Description=它們麻木地出出入入，無法被解釋。
 Mobs/termite_mound/Article=一座
 
