@@ -72,8 +72,8 @@ Petal/Attribute/FlowerRadius=本體<c val="{#Colors/generic}">半徑:</c> +{0:to
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">治療轉換:</c> {0:perc}% 所造<c val="{#Colors/damage}">傷害</c>
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻擊範圍:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/SpawnN=<c val="{#Colors/generic}">召喚:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">召喚:</c> {0}隻 {#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
 Petal/Attribute/Luck=<c val="{#Colors/generic}">運氣:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移動速度:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">治療加成:</c> +{0:perc}%
