@@ -285,12 +285,12 @@ Petals/carrot/Article=一根
 
 Petals/bone/Name=骨頭
 Petals/bone/FullName=骨頭
-Petals/bone/Description=耐用的。
+Petals/bone/Description=自帶護甲，更加耐用。
 Petals/bone/Article=一根
 
 Petals/plank/Name=木板
 Petals/plank/FullName=木板
-Petals/plank/Description=對發射物及花瓣產生 20 倍傷害。
+Petals/plank/Description=對發射物或花瓣產生 20 倍傷害。
 Petals/plank/Article=一塊
 
 Petals/tomato/Name=番茄
