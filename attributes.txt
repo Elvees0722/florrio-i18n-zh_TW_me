@@ -54,7 +54,7 @@ Petal/Attribute/FlowerHealth=本體<c val="{#Colors/health}">血量:</c> +{0:too
 Petal/Attribute/FlowerHealthPerc=本體<c val="{#Colors/health}">血量:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">持續時間:</c> {0:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
-Petal/Attribute/Contents1=<c val="{#Colors/generic}">孵化:</c> {#Mobs/{1:base}/Name}（#Rarities/{1:rarity}/NameColored}）
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">孵化:</c> {#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">孵化:</c> {0}x {#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">額外視野:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">作用半徑:</c> {0:tooltip}
