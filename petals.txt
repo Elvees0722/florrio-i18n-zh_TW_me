@@ -1,12 +1,12 @@
 Petals/basic/Name=單瓣
 Petals/basic/FullName=單瓣
 Petals/basic/Description=一個不錯的花瓣，不很強，也不很弱。
-Petals/basic/Article=一根
+Petals/basic/Article=一片
 
 Petals/light/Name=細瓣
 Petals/light/FullName=細瓣
 Petals/light/Description=強度不如其他花瓣，但是重生速度快。
-Petals/light/Article=一根
+Petals/light/Article=一片
 
 Petals/rock/Name=石頭 
 Petals/rock/FullName=石頭 
@@ -21,7 +21,7 @@ Petals/square/Article=一塊
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰 
 Petals/rose/Description=吸收時治療你的花兒，被破壞則損失效果。
-Petals/rose/Article=一根
+Petals/rose/Article=一片
 
 Petals/stinger/Name=蜇刺
 Petals/stinger/FullName=蜇刺
@@ -31,12 +31,12 @@ Petals/stinger/Article=一根
 Petals/iris/Name=鳶尾
 Petals/iris/FullName=鳶尾 
 Petals/iris/Description=含有淬毒，毒性傷害的完全生效需時。<n/>對其他花兒的效用減半。 
-Petals/iris/Article=一根
+Petals/iris/Article=一顆
 
 Petals/wing/Name=羽翼
 Petals/wing/FullName=羽翼
 Petals/wing/Description=飄逸搖曳。
-Petals/wing/Article=一根
+Petals/wing/Article=一瓣
 
 Petals/missile/Name=飛刺
 Petals/missile/FullName=飛刺
@@ -51,12 +51,12 @@ Petals/grapes/Article=一串
 Petals/cactus/Name=仙人掌
 Petals/cactus/FullName=仙人掌
 Petals/cactus/Description=強度普通，但可以提升花兒的血量上限。
-Petals/cactus/Article=一根
+Petals/cactus/Article=一棵
 
 Petals/faster/Name=輕瓣
 Petals/faster/FullName=輕瓣
 Petals/faster/Description=它非常輕，輕得可以帶動其他花瓣旋轉更快。
-Petals/faster/Article=一根
+Petals/faster/Article=一片
 
 Petals/bubble/Name=泡沫
 Petals/bubble/FullName=泡沫
@@ -71,7 +71,7 @@ Petals/pollen/Article=一堆
 Petals/dandelion/Name=蒲公草
 Petals/dandelion/FullName=蒲公草
 Petals/dandelion/Description=能夠對接觸的目標施加 20% 的治療抑制。效果可堆疊。
-Petals/dandelion/Article=一根
+Petals/dandelion/Article=一棵
 
 Petals/beetle_egg/Name=蟲卵
 Petals/beetle_egg/FullName=甲蟲卵
@@ -86,7 +86,7 @@ Petals/antennae/Article=一對
 Petals/heavy/Name=重瓣
 Petals/heavy/FullName=重瓣
 Petals/heavy/Description=這東西太重了，沒有東西能擋下它。<n/>裝備後，其他花瓣將旋轉更慢。
-Petals/heavy/Article=一根
+Petals/heavy/Article=一片
 
 Petals/yin_yang/Name=陰陽
 Petals/yin_yang/FullName=陰陽
@@ -103,10 +103,10 @@ Petals/honey/FullName=蜜糖
 Petals/honey/Description=讓昆蟲如癡如醉的小東西。<n/>附近的昆蟲會視其為優先目標。<n/>受影響者隨時間對其效果產生免疫。
 Petals/honey/Article=一顆
 
-Petals/leaf/Name=葉片
-Petals/leaf/FullName=葉片
+Petals/leaf/Name=綠葉
+Petals/leaf/FullName=綠葉
 Petals/leaf/Description=進行光合作用，被動治療你的花兒。
-Petals/leaf/Article=一根
+Petals/leaf/Article=一片
 
 Petals/salt/Name=鹽晶
 Petals/salt/FullName=鹽晶
@@ -136,7 +136,7 @@ Petals/pincer/Article=一隻
 Petals/yucca/Name=絲蘭
 Petals/yucca/FullName=絲蘭
 Petals/yucca/Description=被動治療你的花兒，但只在防禦狀態中生效。
-Petals/yucca/Article=一根
+Petals/yucca/Article=一片
 
 Petals/magnet/Name=磁鐵
 Petals/magnet/FullName=磁鐵
@@ -146,7 +146,7 @@ Petals/magnet/Article=一塊
 Petals/yggdrasil/Name=回魂葉
 Petals/yggdrasil/FullName=回魂葉
 Petals/yggdrasil/Description=相傳是從世界樹上凋零而落的一塊乾葉。<n/>能使逝去的花兒復活。
-Petals/yggdrasil/Article=一根
+Petals/yggdrasil/Article=一片
 
 Petals/starfish/Name=海星
 Petals/starfish/FullName=海星
@@ -161,7 +161,7 @@ Petals/pearl/Article=一顆
 Petals/lightning/Name=閃電
 Petals/lightning/FullName=閃電
 Petals/lightning/Description=連鎖攻擊附近的多個敵人。
-Petals/lightning/Article=一根
+Petals/lightning/Article=一道
 
 Petals/jelly/Name=果凍
 Petals/jelly/FullName=果凍
@@ -186,7 +186,7 @@ Petals/cutter/Article=一具
 Petals/dahlia/Name=大理花
 Petals/dahlia/FullName=大理花
 Petals/dahlia/Description=每顆複本的治療量不大，勝在風險分散。
-Petals/dahlia/Article=一根
+Petals/dahlia/Article=一串
 
 Petals/uranium/Name=鈾礦
 Petals/uranium/FullName=鈾礦
@@ -226,22 +226,22 @@ Petals/stick/Article=一根
 Petals/clover/Name=幸運草
 Petals/clover/FullName=幸運草
 Petals/clover/Description=提升你的運氣。<n/>更高的運氣可提升特定花瓣的數值。
-Petals/clover/Article=一根
+Petals/clover/Article=一片
 
 Petals/powder/Name=粉末
 Petals/powder/FullName=詭異的粉末
 Petals/powder/Description=提升你的速度。<n/>當您受到傷害或接近一定等級以上的敵人時，它就會湮沒。
 Petals/powder/Article=一堆
 
-Petals/air/Name=虛空
-Petals/air/FullName=虛空
+Petals/air/Name=空氣
+Petals/air/FullName=空氣
 Petals/air/Description=這裡其實什麼都沒有。
 Petals/air/Article=一片
 
 Petals/basil/Name=九層塔
 Petals/basil/FullName=九層塔
 Petals/basil/Description=令花兒所受的任何治療倍增。
-Petals/basil/Article=一根
+Petals/basil/Article=一棵
 
 Petals/orange/Name=橘橙
 Petals/orange/FullName=橘橙
@@ -263,15 +263,15 @@ Petals/relic/FullName=遠古遺物
 Petals/relic/Description=一個神秘的遺物。能夠倍增花兒的血量上限。<n/>所受傷害將通過遠古力量分攤給其他配戴者。
 Petals/relic/Article=一道
 
-Petals/lotus/Name=蓮花
-Petals/lotus/FullName=蓮花
+Petals/lotus/Name=蓮子
+Petals/lotus/FullName=蓮子
 Petals/lotus/Description=減少花朵受到的毒性傷害。
-Petals/lotus/Article=一根
+Petals/lotus/Article=一顆
 
 Petals/bulb/Name=燈泡
 Petals/bulb/FullName=燈泡
 Petals/bulb/Description=飛蛾撲火。<n/>能挑釁一定範圍內的生物。
-Petals/bulb/Article=一根
+Petals/bulb/Article=一隻
 
 Petals/cotton/Name=棉花
 Petals/cotton/FullName=棉花
@@ -418,15 +418,15 @@ Petals/magic_stinger/FullName=附靈的蜇刺
 Petals/magic_stinger/Description=傷害很高，但很脆弱。
 Petals/magic_stinger/Article=一根
 
-Petals/magic_leaf/Name=葉片
-Petals/magic_leaf/FullName=附靈的葉片
+Petals/magic_leaf/Name=綠葉
+Petals/magic_leaf/FullName=附靈的綠葉
 Petals/magic_leaf/Description=持續從虛空中招引靈力。
-Petals/magic_leaf/Article=一根
+Petals/magic_leaf/Article=一片
 
 Petals/magic_cactus/Name=仙人掌
 Petals/magic_cactus/FullName=附靈的仙人掌
 Petals/magic_cactus/Description=提升靈力容量上限。
-Petals/magic_cactus/Article=一根
+Petals/magic_cactus/Article=一棵
 
 Petals/magic_eye/Name=法眼
 Petals/magic_eye/FullName=法眼
