@@ -454,7 +454,7 @@ Petals/magic_bubble/Description=耗用靈力產生反方向的推力。
 Petals/magic_bubble/Article=一顆
 
 Petals/nazar/Name=護符
-Petals/nazar/FullName=惡妒護符
+Petals/nazar/FullName=惡妒之符
 Petals/nazar/Description=抵擋 98% 的單次攻擊傷害。
 Petals/nazar/Article=一道
 
