@@ -239,7 +239,7 @@ Petals/air/Article=一片
 
 Petals/basil/Name=九層塔
 Petals/basil/FullName=九層塔
-Petals/basil/Description=令所受的任何治療倍增。
+Petals/basil/Description=令花兒所受的任何治療倍增。
 Petals/basil/Article=一根
 
 Petals/orange/Name=橘橙
