@@ -1,4 +1,4 @@
-Maps/ant_hell/Name=無盡蟻獄
+Maps/ant_hell/Name=無盡蟻巢
 
 Maps/ant_hole1/Name=白蟻丘谷
 Maps/ant_hole2/Name=白蟻丘谷
@@ -18,6 +18,6 @@ Maps/jungle/Name=叢林
 
 Maps/ocean/Name=海洋
 
-Maps/sewers/Name=廢水管道
+Maps/sewers/Name=下水管道
 
 Maps/worm/Name=蠕蟲之腹
