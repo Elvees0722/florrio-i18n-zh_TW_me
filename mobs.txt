@@ -70,7 +70,7 @@ Mobs/centipede_desert_body/Description=它有點匆忙趕急，跑快一點！
 Mobs/centipede_desert_body/Article=一條
 
 Mobs/square/Name=方塊
-Mobs/square/Description=這個形狀⋯⋯似是舊時相識⋯⋯
+Mobs/square/Description=這個形狀⋯⋯似乎有點熟悉⋯⋯
 Mobs/square/Article=一塊
 
 Mobs/ladybug_dark/Name=瓢蟲
