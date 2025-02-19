@@ -125,7 +125,7 @@ UI/Squad/Error/Full=你輸入的小隊已滿員
 UI/Shop/Title=商店
 UI/Shop/Button=商店
 UI/Shop/Instructions=是日商品：
-UI/Shop/TimeLeft=新品將於 {0:timeLeft} 內上架
+UI/Shop/time=新品將於 {0:time} 內上架
 UI/Shop/Lock=鎖定
 UI/Shop/LockedChanged=商品將於解鎖後立即更換。
 UI/Shop/LockedNoChange=商品在鎖定期間不會更換。
@@ -150,7 +150,7 @@ UI/Shop/Price/USD=${0}
 UI/DailyChallenge/Title=挑戰
 UI/DailyChallenge/Button=挑戰
 UI/DailyChallenge/Instructions=擊敗以下目標:
-UI/DailyChallenge/TimeLeft=新的目標將於 {0:timeLeft} 內推出
+UI/DailyChallenge/time=新的目標將於 {0:time} 內推出
 UI/DailyChallenge/Claimed=已領取
 UI/DailyChallenge/SupportersOnly=遊戲支持者限定
 
@@ -196,12 +196,12 @@ UI/Absorb/Instructions=回收花瓣以換取經驗值<n/><c val="{#Colors/danger
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
 UI/CoinCraft/Instructions=你可以用任何花瓣換入一枚相同等級的金幣花瓣
-UI/CoinCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次交易
+UI/CoinCraft/Delay=你需等待 {0:time} 才能進行下一次交易
 
 UI/OracleCraft/Title=祭司
 UI/OracleCraft/Button=獻祭
 UI/OracleCraft/Instructions=獻出適當的代價，換取一次命定的合成。
-UI/OracleCraft/Delay=你需等待 {0:timeLeft} 才能進行下一次獻祭
+UI/OracleCraft/Delay=你需等待 {0:time} 才能進行下一次獻祭
 
 UI/Plinko/Title=彈珠機
 UI/Plinko/Auto=自動
