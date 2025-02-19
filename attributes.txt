@@ -1,10 +1,10 @@
 Attribute/PoisonNoColon=<c val="{#Colors/poison}">淬毒</c>
 
-Flower/Attribute/Health=本體<c val="{#Colors/health}">血量:</c> {0:tooltip}
-Flower/Attribute/HealthNoColon=本體<c val="{#Colors/health}">血量</c>
-Flower/Attribute/BodyDamage=本體<c val="{#Colors/damage}">傷害:</c> {0:tooltip}
-Flower/Attribute/BodyDamageNoColon=本體<c val="{#Colors/damage}">傷害</c>
-Flower/Attribute/BodyPoison=本體<c val="{#Colors/poison}">毒傷:</c> {0:tooltip} ({1:tooltip} 每秒)
+Flower/Attribute/Health=花兒<c val="{#Colors/health}">血量:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=花兒<c val="{#Colors/health}">血量</c>
+Flower/Attribute/BodyDamage=花兒<c val="{#Colors/damage}">傷害:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=花兒<c val="{#Colors/damage}">傷害</c>
+Flower/Attribute/BodyPoison=花兒<c val="{#Colors/poison}">毒傷:</c> {0:tooltip} ({1:tooltip} 每秒)
 Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">運氣</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">花瓣轉速</c>
 Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">攻擊範圍</c>
@@ -50,8 +50,8 @@ Petal/Attribute/HealPerc=<c val="{#Colors/heal}">治療:</c> {0:perc}%
 Petal/Attribute/Poison=<c val="{#Colors/poison}">毒傷:</c> {0:tooltip} ({1:tooltip} 每秒)
 Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒傷:</c> {0:tooltip} 每秒
 Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">毒傷免疫:</c> {0:tooltip} 每秒
-Petal/Attribute/FlowerHealth=本體<c val="{#Colors/health}">血量:</c> +{0:tooltip}
-Petal/Attribute/FlowerHealthPerc=本體<c val="{#Colors/health}">血量:</c> +{0:perc}%
+Petal/Attribute/FlowerHealth=花兒<c val="{#Colors/health}">血量:</c> +{0:tooltip}
+Petal/Attribute/FlowerHealthPerc=花兒<c val="{#Colors/health}">血量:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">持續時間:</c> {0:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">孵化:</c> {#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
@@ -66,9 +66,9 @@ Petal/Attribute/Bounces=<c val="{#Colors/generic}">電弧:</c> {0:tooltip}
 Petal/Attribute/Knockback=<c val="{#Colors/generic}">擊退:</c> {0:tooltip}
 Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">額外傷害:</c> {0:tooltip}
 Petal/Attribute/Shield=<c val="{#Colors/generic}">製盾:</c> {0:tooltip}
-Petal/Attribute/BodyDamage=本體<c val="{#Colors/damage}">傷害:</c> +{0:tooltip}
+Petal/Attribute/BodyDamage=花兒<c val="{#Colors/damage}">傷害:</c> +{0:tooltip}
 Petal/Attribute/Period=<c val="{#Colors/generic}">週期:</c> {0:tooltipTime}
-Petal/Attribute/FlowerRadius=本體<c val="{#Colors/generic}">半徑:</c> +{0:tooltip}
+Petal/Attribute/FlowerRadius=花兒<c val="{#Colors/generic}">半徑:</c> +{0:tooltip}
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">治療轉換:</c> {0:perc}% 所造<c val="{#Colors/damage}">傷害</c>
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻擊範圍:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
@@ -78,11 +78,11 @@ Petal/Attribute/Luck=<c val="{#Colors/generic}">運氣:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移動速度:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">治療加成:</c> +{0:perc}%
 Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">生物感知範圍:</c> -{0:perc}%
-Petal/Attribute/FlowerKnockback=本體<c val="{#Colors/generic}">擊退:</c> +{0:tooltip}
+Petal/Attribute/FlowerKnockback=花兒<c val="{#Colors/generic}">擊退:</c> +{0:tooltip}
 Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">反傷:</c> {0:tooltip}
 Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">破甲:</c> {0:tooltip}
-Petal/Attribute/FlowerArmor=本體<c val="{#Colors/armor}">護甲:</c> {0:tooltip}
-Petal/Attribute/FlowerEvasion=本體<c val="{#Colors/generic}">閃避:</c> +{0:perc}%
+Petal/Attribute/FlowerArmor=花兒<c val="{#Colors/armor}">護甲:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=花兒<c val="{#Colors/generic}">閃避:</c> +{0:perc}%
 Petal/Attribute/Charges=<c val="{#Colors/generic}">充能:</c> {0:tooltip}
 Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">治療溢出轉化:</c> +{0:perc}%
 Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">受磁鐵干擾</c>
@@ -95,8 +95,8 @@ Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">急性毒傷:</c> {0:toolt
 Petal/Attribute/Interval=<c val="{#Colors/generic}">時隔:</c> {0:tooltipTime}
 Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">能使附近花兒墮落。</c>
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">不能卸下。</c>
-Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">在本體死亡時消耗。</c>
-Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">在本體存活時不能卸下。</c>
+Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">在花兒死亡時消耗。</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">在花兒存活時不能卸下。</c>
 Petal/Attribute/Mana=<c val="{#Colors/mana}">煉靈:</c> {0:tooltip}
 Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">煉靈:</c> {0:tooltip} 每秒
 Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基礎靈力上限:</c> {0:tooltip}
