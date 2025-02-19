@@ -355,7 +355,7 @@ Petals/compass/Article=一道
 
 Petals/disc/Name=圓盤
 Petals/disc/FullName=圓盤
-Petals/disc/Description=減少與敵人碰撞時所受傷害。
+Petals/disc/Description=減少花兒與敵人碰撞時所受傷害。
 Petals/compass/Article=一塊
 
 Petals/shovel/Name=鐵鏟
