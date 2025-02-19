@@ -126,8 +126,8 @@ Mobs/jellyfish/Description=觸感清新爽快。
 Mobs/jellyfish/Spawn=遠方東洋傳來轟隆雷聲⋯⋯
 Mobs/jellyfish/Article=一隻
 
-Mobs/digger/Name=地下金剛
-Mobs/digger/Description=伙計，你來錯片場啦。
+Mobs/digger/Name=掘地金剛
+Mobs/digger/Description=兄弟，你來錯地方啦。
 Mobs/digger/Article=一台
 
 Mobs/sponge/Name=海棉
@@ -167,7 +167,7 @@ Mobs/fire_ant_egg/Description=準備火力全開。
 Mobs/fire_ant_egg/Article=一顆
 
 Mobs/fly/Name=蒼蠅
-Mobs/fly/Description=滋滋作響！
+Mobs/fly/Description=嗡嗡作響！
 Mobs/fly/Article=一隻
 
 Mobs/leafbug/Name=葉蟲
