@@ -15,7 +15,7 @@ Petals/rock/Article=一塊
 
 Petals/square/Name=方塊
 Petals/square/FullName=方塊
-Petals/square/Description=這個形狀⋯⋯似是舊時相識⋯⋯
+Petals/square/Description=這個形狀⋯⋯似乎有點熟悉⋯⋯
 Petals/square/Article=一塊
 
 Petals/rose/Name=玫瑰
