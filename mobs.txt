@@ -25,10 +25,10 @@ Mobs/ant_worker/Description=脾氣暴躁，可能是過勞工作的緣故。
 Mobs/ant_worker/Article=一隻
 
 Mobs/ant_soldier/Name=黑兵蟻
-Mobs/ant_soldier/Description=羽翼已豐，準備施展抱負。
+Mobs/ant_soldier/Description=羽翼已豐，準備展翅高飛。
 Mobs/ant_soldier/Article=一隻
 
-Mobs/ant_queen/Name=黑蟻帝后
+Mobs/ant_queen/Name=黑蟻后
 Mobs/ant_queen/Description=如果她緊追不放，你一定是做了壞事。
 Mobs/ant_queen/Article=一隻
 
@@ -154,7 +154,7 @@ Mobs/fire_ant_worker/Name=紅工蟻
 Mobs/fire_ant_worker/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_worker/Article=一隻
 
-Mobs/fire_ant_queen/Name=紅蟻帝后
+Mobs/fire_ant_queen/Name=紅蟻后
 Mobs/fire_ant_queen/Description=這隻螞蟻火力全開。
 Mobs/fire_ant_queen/Article=一隻
 
@@ -187,7 +187,7 @@ Mobs/termite_worker/Description=脾氣暴躁，可能是過勞工作的緣故。
 Mobs/termite_worker/Article=一隻
 
 Mobs/termite_soldier/Name=白兵蟻
-Mobs/termite_soldier/Description=羽翼已豐，準備施展抱負。<n/>這些生命似乎存在某種聯繫。
+Mobs/termite_soldier/Description=羽翼已豐，準備展翅高飛。<n/>這些生命似乎存在某種聯繫。
 Mobs/termite_soldier/Article=一隻
 
 Mobs/termite_overmind/Name=白蟻主宰
