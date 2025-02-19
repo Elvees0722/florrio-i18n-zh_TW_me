@@ -23,8 +23,8 @@ Petals/rose/FullName=玫瑰
 Petals/rose/Description=吸收時治療你的花兒，被破壞則損失效果。
 Petals/rose/Article=一片
 
-Petals/stinger/Name=蜇刺
-Petals/stinger/FullName=蜇刺
+Petals/stinger/Name=尖刺
+Petals/stinger/FullName=尖刺
 Petals/stinger/Description=傷害很高，但很脆弱。
 Petals/stinger/Article=一根
 
@@ -128,8 +128,8 @@ Petals/sand/FullName=砂粒
 Petals/sand/Description=非晶體二氧化矽。
 Petals/sand/Article=一堆
 
-Petals/pincer/Name=蜇鉗
-Petals/pincer/FullName=蜇鉗
+Petals/pincer/Name=毒鉗
+Petals/pincer/FullName=毒鉗
 Petals/pincer/Description=含有淬毒，能暫時癱瘓敵人行動。 
 Petals/pincer/Article=一隻
 
@@ -308,8 +308,8 @@ Petals/rubber/FullName=橡膠
 Petals/rubber/Description=增加花兒受到的擊退。且能吸收來襲的電擊傷害。
 Petals/rubber/Article=一塊
 
-Petals/blood_stinger/Name=蜇刺
-Petals/blood_stinger/FullName=血祭的蜇刺
+Petals/blood_stinger/Name=尖刺
+Petals/blood_stinger/FullName=血祭的尖刺
 Petals/blood_stinger/Description=傷害很高，但很脆弱。<n/>燃燒生命製成。
 Petals/blood_stinger/Article=一根
 
@@ -393,9 +393,9 @@ Petals/glass/FullName=玻璃
 Petals/glass/Description=它可以穿透敵人。<n/>每隔固定的時間造成一次傷害。
 Petals/glass/Article=一塊
 
-Petals/corruption/Name=惡墮根源
-Petals/corruption/FullName=惡墮根源
-Petals/corruption/Description=腐蝕花兒的靈魂，使之與同類拔刀相向。
+Petals/corruption/Name=惡墮之源
+Petals/corruption/FullName=惡墮之源
+Petals/corruption/Description=腐蝕花兒的靈魂，使之與同類相殘。
 Petals/corruption/Article=一道
 
 Petals/orb/Name=靈石
@@ -413,8 +413,8 @@ Petals/magic_cotton/FullName=附靈的棉花
 Petals/magic_cotton/Description=耗用靈力吸收花朵受到的傷害。
 Petals/magic_cotton/Article=一片
 
-Petals/magic_stinger/Name=蜇刺
-Petals/magic_stinger/FullName=附靈的蜇刺
+Petals/magic_stinger/Name=尖刺
+Petals/magic_stinger/FullName=附靈的尖刺
 Petals/magic_stinger/Description=傷害很高，但很脆弱。
 Petals/magic_stinger/Article=一根
 
