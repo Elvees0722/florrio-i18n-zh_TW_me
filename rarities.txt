@@ -33,7 +33,7 @@ Rarities/ultra/ArticleUpper=一個
 Rarities/ultra/Article=一個
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=超絕
+Rarities/super/Name=超級
 Rarities/super/ArticleUpper=一個
 Rarities/super/Article=一個
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
