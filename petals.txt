@@ -200,7 +200,7 @@ Petals/sponge/Article=一塊
 
 Petals/soil/Name=土壤
 Petals/soil/FullName=土壤
-Petals/soil/Description=提升花兒的血量及身型，但減低移動速度。
+Petals/soil/Description=提升花兒的血量及重量，但減低移動速度。
 Petals/soil/Article=一塊
 
 Petals/fangs/Name=獠牙
