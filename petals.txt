@@ -300,7 +300,7 @@ Petals/tomato/Article=一顆
 
 Petals/mark/Name=印紋
 Petals/mark/FullName=惡墮印紋
-Petals/mark/Description=與墮落的靈魂緊密相連。
+Petals/mark/Description=與墮落的靈魂緊緊相扣。
 Petals/mark/Article=一道
 
 Petals/rubber/Name=橡膠
