@@ -380,7 +380,7 @@ Petals/card/Article=一片
 
 Petals/moon/Name=月石
 Petals/moon/FullName=月石
-Petals/moon/Description=質量之大，你的花瓣都繞它而轉。<n/>你到底是在哪兒找到它呢？
+Petals/moon/Description=質量之大，你的花瓣都將繞它而轉。<n/>你到底是如何發現它呢？
 Petals/card/Article=一座
 
 Petals/privet/Name=女貞
