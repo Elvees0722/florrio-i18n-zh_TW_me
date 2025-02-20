@@ -91,7 +91,7 @@ Petals/heavy/Article=一片
 Petals/yin_yang/Name=陰陽
 Petals/yin_yang/FullName=陰陽
 Petals/yin_yang/Description=這道神秘的花瓣能夠逆轉花瓣的旋轉方向。
-Petals/yin_yang/Article=一道
+Petals/yin_yang/Article=一片
 
 Petals/web/Name=蛛網
 Petals/web/FullName=蛛網
@@ -101,10 +101,10 @@ Petals/web/Article=一片
 Petals/honey/Name=蜜糖
 Petals/honey/FullName=蜜糖
 Petals/honey/Description=讓昆蟲如癡如醉的小東西。<n/>附近的昆蟲會視其為優先目標。<n/>受影響者隨時間對其效果產生免疫。
-Petals/honey/Article=一顆
+Petals/honey/Article=一坨
 
-Petals/leaf/Name=綠葉
-Petals/leaf/FullName=綠葉
+Petals/leaf/Name=葉片
+Petals/leaf/FullName=葉片
 Petals/leaf/Description=進行光合作用，被動治療你的花兒。
 Petals/leaf/Article=一片
 
@@ -161,7 +161,7 @@ Petals/pearl/Article=一顆
 Petals/lightning/Name=閃電
 Petals/lightning/FullName=閃電
 Petals/lightning/Description=連鎖攻擊附近的多個敵人。
-Petals/lightning/Article=一道
+Petals/lightning/Article=一根
 
 Petals/jelly/Name=果凍
 Petals/jelly/FullName=果凍
@@ -170,7 +170,7 @@ Petals/jelly/Article=一顆
 
 Petals/claw/Name=爪子
 Petals/claw/FullName=爪子
-Petals/claw/Description=能夠對血量高於 80% 的敵人造成額外傷害。<n/>對其他花朵的效果減半。
+Petals/claw/Description=能夠對血量高於 80% 的敵人造成額外傷害。<n/>對其他花兒的效果減半。
 Petals/claw/Article=一隻
 
 Petals/shell/Name=貝殼
@@ -190,7 +190,7 @@ Petals/dahlia/Article=一串
 
 Petals/uranium/Name=鈾礦
 Petals/uranium/FullName=鈾礦
-Petals/uranium/Description=緩慢釋放輻射。<n/>對其他花朵的效果減少 75%。<n/>造成傷害取決於與目標的距離。
+Petals/uranium/Description=緩慢釋放輻射。<n/>對其他花兒的傷害減少 75%。<n/>效果隨距離衰減。
 Petals/uranium/Article=一顆
 
 Petals/sponge/Name=海綿
@@ -265,7 +265,7 @@ Petals/relic/Article=一道
 
 Petals/lotus/Name=蓮子
 Petals/lotus/FullName=蓮子
-Petals/lotus/Description=減少花朵受到的毒性傷害。
+Petals/lotus/Description=減少花兒受到的毒性傷害。
 Petals/lotus/Article=一顆
 
 Petals/bulb/Name=燈泡
@@ -275,7 +275,7 @@ Petals/bulb/Article=一隻
 
 Petals/cotton/Name=棉花
 Petals/cotton/FullName=棉花
-Petals/cotton/Description=吸收花朵受到的任何傷害。
+Petals/cotton/Description=吸收花兒受到的任何傷害。
 Petals/cotton/Article=一片
 
 Petals/carrot/Name=蘿蔔
@@ -325,7 +325,7 @@ Petals/root/Article=一棵
 
 Petals/ankh/Name=符文
 Petals/ankh/FullName=生命符文
-Petals/ankh/Description=一處古代遺跡。<n/>當花朵被毀壞時，它會被傳送回被毀壞的地方。
+Petals/ankh/Description=一處古代遺跡。<n/>當花兒被毀壞時，它會被傳送回被毀壞的地方。
 Petals/ankh/Article=一道
 
 Petals/dice/Name=骰子
@@ -340,7 +340,7 @@ Petals/talisman/Article=一道
 
 Petals/battery/Name=電池
 Petals/battery/FullName=電池
-Petals/battery/Description=摩擦生電。<n/>當花朵受到傷害時，它會充能釋出閃電。
+Petals/battery/Description=摩擦生電。<n/>當花兒受到傷害時，它會充能釋出閃電。
 Petals/battery/Article=一節
 
 Petals/amulet/Name=護符
@@ -396,7 +396,7 @@ Petals/glass/Article=一塊
 Petals/corruption/Name=惡墮之源
 Petals/corruption/FullName=惡墮之源
 Petals/corruption/Description=腐蝕花兒的靈魂，使之與同類相殘。
-Petals/corruption/Article=一道
+Petals/corruption/Article=一片
 
 Petals/orb/Name=靈石
 Petals/orb/FullName=靈石
@@ -410,7 +410,7 @@ Petals/blueberries/Article=一串
 
 Petals/magic_cotton/Name=棉花
 Petals/magic_cotton/FullName=附靈的棉花
-Petals/magic_cotton/Description=耗用靈力吸收花朵受到的傷害。
+Petals/magic_cotton/Description=耗用靈力吸收花兒受到的傷害。
 Petals/magic_cotton/Article=一片
 
 Petals/magic_stinger/Name=尖刺
@@ -418,8 +418,8 @@ Petals/magic_stinger/FullName=附靈的尖刺
 Petals/magic_stinger/Description=傷害很高，但很脆弱。
 Petals/magic_stinger/Article=一根
 
-Petals/magic_leaf/Name=綠葉
-Petals/magic_leaf/FullName=附靈的綠葉
+Petals/magic_leaf/Name=葉片
+Petals/magic_leaf/FullName=附靈的葉片
 Petals/magic_leaf/Description=持續從虛空中招引靈力。
 Petals/magic_leaf/Article=一片
 
@@ -481,3 +481,22 @@ Petals/mecha_missile/Name=飛刺
 Petals/mecha_missile/FullName=機動飛刺
 Petals/mecha_missile/Description=發射。鎖定目標。
 Petals/mecha_missile/Article=一根
+
+Petals/wax/Name=蜜蠟
+Petals/wax/FullName=蜜蠟
+Petals/wax/Description=別問其出處。
+Petals/wax/Article=一坨
+
+Petals/golden_leaf/Name=葉片
+Petals/golden_leaf/FullName=鍍金葉片
+Petals/golden_leaf/Description=進行光合作用，滋養其他花瓣。<n/>提升其他花瓣的重生速度。
+Petals/golden_leaf/Article=一片
+
+Petals/cog/Name=齒輪
+Petals/cog/FullName=齒輪
+Petals/cog/Description=這東西可以做什麼？
+Petals/cog/Article=一道
+
+Petals/monstera/Name=蓬萊蕉
+Petals/monstera/FullName=蓬萊蕉
+Petals/monstera/Description=治療附近的花兒。<n/>效果隨距離衰減。
