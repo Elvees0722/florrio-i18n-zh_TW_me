@@ -174,3 +174,6 @@ Chat/Command/purge-contagious-corruption/Description=End the plague
 
 Chat/Command/calculate-next-shop/Args=<petal:rarity> [min discount level 0~3]
 Chat/Command/calculate-next-shop/Description=Calculates in how many periods the petal will appear in shop
+
+Chat/Command/lock-in-hel/Args=<target>
+Chat/Command/lock-in-hel/Description=Locks player in Hel for 1 hour
