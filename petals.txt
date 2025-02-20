@@ -500,3 +500,4 @@ Petals/cog/Article=一道
 Petals/monstera/Name=蓬萊蕉
 Petals/monstera/FullName=蓬萊蕉
 Petals/monstera/Description=治療附近的花兒。<n/>效果隨距離衰減。
+Petals/monstera/Article=一片
