@@ -66,6 +66,9 @@ Chat/Command/unblock/Description=從封鎖清單移除某位玩家
 Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=從封鎖清單移除所有玩家
 
+Chat/Command/rot-speed/Args=<數值>
+Chat/Command/rot-speed/Description=設定花瓣轉速：0.0 至 1.0 之間
+
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=列出附近玩家的帳戶號碼
 
