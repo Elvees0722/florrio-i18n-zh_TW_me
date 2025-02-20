@@ -30,7 +30,7 @@ Petals/stinger/Article=一根
 
 Petals/iris/Name=鳶尾
 Petals/iris/FullName=鳶尾 
-Petals/iris/Description=含有淬毒，毒性傷害的完全生效需時。<n/>對其他花兒的效用減半。 
+Petals/iris/Description=含有淬毒，毒性傷害完全生效需時。<n/>對其他花兒的效用減半。 
 Petals/iris/Article=一顆
 
 Petals/wing/Name=羽翼
