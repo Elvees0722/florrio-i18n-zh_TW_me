@@ -105,4 +105,6 @@ Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">賦予尋找附
 Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">傷害吸收:</c> {0:tooltip} 每<c val="{#Colors/mana}">靈力</c>
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">電擊傷害:</c> {0:tooltip} 每<c val="{#Colors/mana}">靈力</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">喚靈成本:</c> {0:tooltip} <c val="{#Colors/mana}">靈力</c>
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">賦予 {0:perc}% 機率從生物身上取得額外掉落物。</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">附靈成本:</c> {0:tooltip} <c val="{#Colors/mana}">靈力</c> 每秒
+Petal/Attribute/Reload=<c val="{#Colors/generic}">重生時間:</c> -{0:perc}%
