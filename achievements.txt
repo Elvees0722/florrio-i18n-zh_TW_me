@@ -1,18 +1,18 @@
-Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Name=新手教學
+Achievements/0/Description=踏出第一步。
+Achievements/0/ExtraDescription=拖動鼠標來移動你的花兒。<n/>你可以在設定中更改為鍵盤控制。<n/><n/>請稍作移動以適應操作。
 
-Achievements/1/Name=Tutorial
-Achievements/1/Description=Kill a mob.
-Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+Achievements/1/Name=新手教學
+Achievements/1/Description=獵殺生物。
+Achievements/1/ExtraDescription=四海昆蟲皆敵人。摧毀它們時有機會掉落花瓣。<n/><n/>現在請尋找並擊敗第一隻昆蟲。<n/>按下鼠標左鍵可讓你的花瓣進入攻擊狀態。
 
-Achievements/2/Name=Tutorial
-Achievements/2/Description=Collect a petal.
-Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+Achievements/2/Name=新手教學
+Achievements/2/Description=收集花瓣。
+Achievements/2/ExtraDescription=繼續獵殺生物直到任何花瓣掉落，靠近掉落物來將之拾取。
 
-Achievements/3/Name=Tutorial
-Achievements/3/Description=Equip a petal.
-Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+Achievements/3/Name=新手教學
+Achievements/3/Description=裝備花瓣。
+Achievements/3/ExtraDescription=若你的裝備欄仍有任何空間，拾取的花瓣將自動填補該空缺，否則花瓣將被置入你的背包中。<n/>點擊花瓣（或使用數字快捷鍵）使之在裝備欄及後備欄之中切換。
 
 # Disabled
 Achievements/4/Name=Tutorial
