@@ -294,8 +294,8 @@ UI/Settings/FixedJoystick=固定搖桿
 UI/Settings/InvertAttack=自動攻擊
 UI/Settings/InvertDefend=自動防禦
 
-UI/Settings/AutoSaveLoadout=自動儲存裝備配置
-UI/Settings/AutoSaveLoadout/Help=關閉時，請使用【O】按鍵儲存現有裝備配置
+UI/Settings/AutoSaveLoadout=自動儲存花瓣配置
+UI/Settings/AutoSaveLoadout/Help=關閉時，請使用【O】按鍵儲存現有花瓣配置
 
 UI/Settings/PrivacyPolicy=隱私政策
 UI/Settings/TermsOfService=服務條款
