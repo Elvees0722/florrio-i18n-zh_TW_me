@@ -30,7 +30,7 @@ UI/Login/PlayAsGuest=以訪客身分遊玩
 UI/Login/SignInApple=以Apple帳戶登錄
 UI/Login/SignInDiscord=以Discord帳戶登錄
 UI/Login/Logout=登出
-UI/Login/AccountID=帳戶號碼:
+UI/Login/AccountID=帳戶代碼:
 UI/Login/Connecting=（連接中）
 UI/Login/GuestName=遊客
 UI/Login/GuestInfo=假如你正在使用訪客帳戶遊玩，<n/>你將在登錄之後銜接並保留現有進度。
@@ -69,10 +69,10 @@ UI/Chat/Player/InviteToGuild=邀請至公會
 UI/Flower/Level=等級 {0}
 
 # When you evade damage
-UI/Damage/Evade=Evade
+UI/Damage/Evade=迴避
 
 # When the target evades damage
-UI/Damage/Miss=Miss
+UI/Damage/Miss=未擊中
 
 UI/Death/Title=取你性命的是:
 UI/Death/NoSource=未知者
@@ -92,8 +92,8 @@ UI/Achievements/TrackAutomatically=自動追蹤
 UI/Achievements/Hidden=？？？
 UI/Achievements/TotalProgress={0}/{1} 已完成
 UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
-UI/Achievements/UnlockedNotification/1=Achievement unlocked
-UI/Achievements/UnlockedNotification/N=Achievements unlocked
+UI/Achievements/UnlockedNotification/1=已解鎖成就
+UI/Achievements/UnlockedNotification/N=已解鎖成就
 
 UI/MobGallery/Title=生物圖鑑
 
@@ -164,24 +164,24 @@ UI/DailyChallenge/TimeLeft=新的目標將於 {0:time} 內推出
 UI/DailyChallenge/Claimed=已領取
 UI/DailyChallenge/SupportersOnly=遊戲支持者限定
 
-UI/Banned/Title=BANNED
-UI/Banned/Instructions=Your account has been banned.
-UI/Banned/TimeLeft=This ban will expire in {0:time}.
-UI/Banned/Permanent=This ban is permanent.
-UI/Banned/Account=Account: {0}
+UI/Banned/Title=封禁
+UI/Banned/Instructions=你的帳戶已被封禁。
+UI/Banned/TimeLeft=此次封禁將於 {0:time} 後解除。
+UI/Banned/Permanent=此次封禁為永久性。
+UI/Banned/Account=帳戶代碼：{0}
 
-UI/Bonus/Title=Bonus
-UI/Bonus/Button=Bonus
-UI/Bonus/Instructions=Earn bonus drops
-UI/Bonus/Instructions2=For the first hour you play each day, you get extra drops.
+UI/Bonus/Title=加成
+UI/Bonus/Button=加成
+UI/Bonus/Instructions=獲得加倍掉落物
+UI/Bonus/Instructions2=你將於每天首小時的遊玩中獲得加倍掉落物。
 UI/Bonus/Pill/Label={0}x
-UI/Bonus/Delay=You can activate your bonus again in {0:time}.
-UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}.
-UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
-UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
-UI/Bonus/AutoDelay=Your bonus will activate again in {0:time}.
-UI/Bonus/Activate=Activate
-UI/Bonus/Activate/Setting=Activate automatically
+UI/Bonus/Delay=你可於 {0:time} 後再次啟用加成。
+UI/Bonus/CurrentlyActive=此次加成的剩餘時間為 {0:time}。
+UI/Bonus/Available=加成已準備就緒。
+UI/Bonus/AvailableExpiration=請在 {0:time} 內使用你今天的加成機會。
+UI/Bonus/AutoDelay=下一次加成將於 {0:time} 後自動啟用。
+UI/Bonus/Activate=啟用
+UI/Bonus/Activate/Setting=自動啟用
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
@@ -211,7 +211,7 @@ UI/Talent/Rarity={#Rarities/{0}/Name}
 UI/Talent/TP=天賦點
 UI/Talent/Tooltip=通過提升等級獲得更多天賦點
 UI/Talent/Reset=重置
-UI/Talent/HoldToUpgrade=HOLD to upgrade
+UI/Talent/HoldToUpgrade=長按以升級
 
 UI/Craft/Title=合成
 UI/Craft/Button=合成
@@ -287,15 +287,15 @@ UI/Settings/KeyboardMovement=鍵盤控制
 
 UI/Settings/MovementHelper=鼠標移動輔助
 
-UI/Settings/AutoSearchPetals=Search petals when opening inventory
+UI/Settings/AutoSearchPetals=背包開啟時預設搜索花瓣
 
 UI/Settings/FixedJoystick=固定搖桿
 
-UI/Settings/InvertAttack=Invert attack button
-UI/Settings/InvertDefend=Invert defend button
+UI/Settings/InvertAttack=自動攻擊
+UI/Settings/InvertDefend=自動防禦
 
 UI/Settings/AutoSaveLoadout=自動儲存裝備配置
-UI/Settings/AutoSaveLoadout/Help=If disabled, press [O] to save current loadout
+UI/Settings/AutoSaveLoadout/Help=關閉時，請使用【O】按鍵儲存現有裝備配置
 
 UI/Settings/PrivacyPolicy=隱私政策
 UI/Settings/TermsOfService=服務條款
