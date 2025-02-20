@@ -293,3 +293,7 @@ Mobs/wasp_mecha/Article=一隻
 Mobs/spider_mecha/Name=機甲痴蛛
 Mobs/spider_mecha/Description=它們執行驚駭的擾亂程序。
 Mobs/spider_mecha/Article=一隻
+
+Mobs/leafbug_shiny/Name=葉蟲
+Mobs/leafbug_shiny/Description=披上閃亮葉子偽裝的蟲子。
+Mobs/leafbug_shiny/Article=一隻
