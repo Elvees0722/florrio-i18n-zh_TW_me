@@ -108,3 +108,4 @@ Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">喚靈成本:</c> {0:to
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">賦予 {0:perc}% 機率從生物身上取得額外掉落物。</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">附靈成本:</c> {0:tooltip} <c val="{#Colors/mana}">靈力</c> 每秒
 Petal/Attribute/Reload=<c val="{#Colors/generic}">重生時間:</c> -{0:perc}%
+Petal/Attribute/LockInHel=<c val="{#Colors/danger}">受害靈魂將流轉於亡界中 {0:time}。</c>
