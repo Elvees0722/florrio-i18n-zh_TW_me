@@ -25,7 +25,7 @@ Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
 
 Achievements/6/Name=Tutorial
 Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent.
 
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Collect some petals.
@@ -424,3 +424,6 @@ Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+
 
 Achievements/138/Name=Magician
 Achievements/138/Description=Equip an {#Petals/{0}/Name}.
+
+Achievements/139/Name=I'm feeling lucky
+Achievements/139/Description=Get an extra drop due to a {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}.
