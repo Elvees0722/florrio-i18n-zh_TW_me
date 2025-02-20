@@ -1,6 +1,6 @@
 UI/Language/Name=中文（繁體）
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Credits=Leaf<n/>Tick<n/>Whamikaze
 
 UI/Title/Loading=載入中⋯⋯
 UI/Title/Connecting=連接中⋯⋯
@@ -68,6 +68,12 @@ UI/Chat/Player/InviteToGuild=邀請至公會
 
 UI/Flower/Level=等級 {0}
 
+# When you evade damage
+UI/Damage/Evade=Evade
+
+# When the target evades damage
+UI/Damage/Miss=Miss
+
 UI/Death/Title=取你性命的是:
 UI/Death/NoSource=未知者
 UI/Death/Continue=繼續
@@ -85,16 +91,20 @@ UI/Achievements/Track=追蹤
 UI/Achievements/TrackAutomatically=自動追蹤
 UI/Achievements/Hidden=？？？
 UI/Achievements/TotalProgress={0}/{1} 已完成
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=Achievement unlocked
+UI/Achievements/UnlockedNotification/N=Achievements unlocked
 
 UI/MobGallery/Title=生物圖鑑
 
 UI/Changelog/Title=更改日記
-UI/Changelog/Bottom=更遠古的更改未能盡錄
+UI/Changelog/Bottom=更久遠的更改未能盡錄
 
 UI/Inventory/Title=背包
 UI/Inventory/Stack=堆疊
 UI/Inventory/Instructions=將欲裝備的花瓣移出背包
 UI/Inventory/Speed=轉速
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=公會
 UI/Guild/NoGuild=你仍未加入公會
@@ -154,6 +164,25 @@ UI/DailyChallenge/TimeLeft=新的目標將於 {0:time} 內推出
 UI/DailyChallenge/Claimed=已領取
 UI/DailyChallenge/SupportersOnly=遊戲支持者限定
 
+UI/Banned/Title=BANNED
+UI/Banned/Instructions=Your account has been banned.
+UI/Banned/TimeLeft=This ban will expire in {0:time}.
+UI/Banned/Permanent=This ban is permanent.
+UI/Banned/Account=Account: {0}
+
+UI/Bonus/Title=Bonus
+UI/Bonus/Button=Bonus
+UI/Bonus/Instructions=Earn bonus drops
+UI/Bonus/Instructions2=For the first hour you play each day, you get extra drops.
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=You can activate your bonus again in {0:time}.
+UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}.
+UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
+UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
+UI/Bonus/AutoDelay=Your bonus will activate again in {0:time}.
+UI/Bonus/Activate=Activate
+UI/Bonus/Activate/Setting=Activate automatically
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -173,6 +202,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=天賦
 UI/Talent/Name={#Talents/{0}/Name:1-}
@@ -181,6 +211,7 @@ UI/Talent/Rarity={#Rarities/{0}/Name}
 UI/Talent/TP=天賦點
 UI/Talent/Tooltip=通過提升等級獲得更多天賦點
 UI/Talent/Reset=重置
+UI/Talent/HoldToUpgrade=HOLD to upgrade
 
 UI/Craft/Title=合成
 UI/Craft/Button=合成
@@ -256,9 +287,15 @@ UI/Settings/KeyboardMovement=鍵盤控制
 
 UI/Settings/MovementHelper=鼠標移動輔助
 
+UI/Settings/AutoSearchPetals=Search petals when opening inventory
+
 UI/Settings/FixedJoystick=固定搖桿
 
+UI/Settings/InvertAttack=Invert attack button
+UI/Settings/InvertDefend=Invert defend button
+
 UI/Settings/AutoSaveLoadout=自動儲存裝備配置
+UI/Settings/AutoSaveLoadout/Help=If disabled, press [O] to save current loadout
 
 UI/Settings/PrivacyPolicy=隱私政策
 UI/Settings/TermsOfService=服務條款
