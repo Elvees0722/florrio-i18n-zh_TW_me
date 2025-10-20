@@ -3,12 +3,12 @@ Rarities/common/ArticleUpper=一個
 Rarities/common/Article=一個
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=不凡
+Rarities/unusual/Name=罕見
 Rarities/unusual/ArticleUpper=一個
 Rarities/unusual/Article=一個
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=稀罕
+Rarities/rare/Name=稀有
 Rarities/rare/ArticleUpper=一個
 Rarities/rare/Article=一個
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
@@ -38,7 +38,7 @@ Rarities/super/ArticleUpper=一個
 Rarities/super/Article=一個
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=無上
+Rarities/unique/Name=唯一
 Rarities/unique/ArticleUpper=一個
 Rarities/unique/Article=一個
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
